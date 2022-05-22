@@ -1,0 +1,1767 @@
+Index;Country;Programme;Year;University;University code;Latitude;Longitude;Reserved
+1;Ecuador ;Sociology of Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+2;Nigeria ;Service Management, Sustainable Service Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+3;Indonesia ;Industrial Management and Innovation;2021;Uppsala University;UU;59,8509;17,63;FALSE
+4;Guatemala ;Information Systems;2021;Lund University;LU;55,7119;13,2035;FALSE
+5;Indonesia ;European Affairs;2021;Lund University;LU;55,7119;13,2035;FALSE
+6;Zimbabwe ;Innovation and Design;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+7;Zimbabwe ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2021;Halmstad University;HH;56,6647;12,878;FALSE
+8;Gambia ;Robotics and Automation;2021;University West;HV;58,2832;12,294;FALSE
+9;Uganda ;Outdoor and Sustainability Education;2021;Linköping University;LIU;58,3978;15,576;FALSE
+10;Guatemala ;European and International Trade and Tax Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+11;Guatemala ;Psychology;2021;Lund University;LU;55,7119;13,2035;FALSE
+12;Colombia ;Sustainable Technology;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+13;Malawi ;Interventions in Childhood;2021;Jönköping University;HJ;57,7786;14,1619;FALSE
+14;Cameroon ;Business Administration (MBA): Business Management;2021;University of Gävle;HIG;60,6685;17,1188;FALSE
+15;Nigeria ;Economics;2021;Lund University;LU;55,7119;13,2035;FALSE
+16;Zambia ;Educational Research;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+17;Ghana ;Educational Research;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+18;Russia ;Energy-efficient and Environmental Building Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+19;Indonesia ;Managing People, Knowledge & Change;2021;Lund University;LU;55,7119;13,2035;FALSE
+20;Nigeria ;Intelligent Embedded Systems;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+21;Cambodia ;Communication;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+22;Ecuador ;Civil Engineering, with specialization in mining and Geotechnical Engineering;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+23;Peru ;Innovation and Design;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+24;Malawi ;Public Health Science - Health Equality;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+25;Uganda ;Leadership and Management in International Contexts;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+26;Tanzania ;Agroecology;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+27;Ecuador ;Entrepreneurship and Innovation;2021;Lund University;LU;55,7119;13,2035;FALSE
+28;Sudan ;Global Health;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+29;Cameroon ;Information Systems;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+30;Ghana ;Business Administration, Accounting;2021;University of Gävle;HIG;60,6685;17,1188;FALSE
+31;Cameroon ;Leadership for Sustainable Development: Sociology;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+32;Philippines ;Health Informatics;2021;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+33;Gambia ;Public Health Promotion and Prevention;2021;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+34;Ghana ;IT and Management;2021;University West;HV;58,2832;12,294;FALSE
+35;Liberia ;Business Administration, Accounting;2021;University of Gävle;HIG;60,6685;17,1188;FALSE
+36;Gambia ;Business Development and Internationalisation;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+37;Nigeria ;Science for Sustainable Development;2021;Linköping University;LIU;58,3978;15,576;FALSE
+38;Guatemala ;Pharmaceutical Technology: Discovery, Development and Production;2021;Lund University;LU;55,7119;13,2035;FALSE
+39;Guatemala ;Sustainable Production Development;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+40;Cameroon ;"Business Process Control and Supply Chain Management - Frontiers in
+Logistics & Supply Chain Managemen";2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+41;Cameroon ;Exploration and Environmental Geosciences;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+42;Nigeria ;Public Health Sciences: Individual perspectives;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+43;Zambia ;Soil, Water and Environment;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+44;Uganda ;Energy Efficient Built Environments;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+45;Zambia ;Social Scientific Data Analysis;2021;Lund University;LU;55,7119;13,2035;FALSE
+46;Zambia ;Science for Sustainable Development;2021;Linköping University;LIU;58,3978;15,576;FALSE
+47;Georgia ;Investigative Journalism;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+48;Nigeria ;Strategic Urban and Regional Planning;2021;Linköping University;LIU;58,3978;15,576;FALSE
+49;Liberia ;Business Intelligence;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+50;Nigeria ;"Plant Biology for Sustainable Production - Plant Protection and Breeding for Mitigating Climate
+Change";2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+51;Nigeria ;Data Science;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+52;Cameroon ;Political Science - Gothenburg;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+53;Nigeria ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+54;Colombia ;Digital Business;2021;Jönköping University;HJ;57,7786;14,1619;FALSE
+55;Nigeria ;Exploration and Environmental Geosciences;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+56;Liberia ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+57;Vietnam ;Logistics and Transport Management;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+58;Honduras ;Environmental Law;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+59;Jordan ;Public Health Science - Health Equality;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+60;Cameroon ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2021;Halmstad University;HH;56,6647;12,878;FALSE
+61;Turkey ;Industrial Management and Innovation;2021;Uppsala University;UU;59,8509;17,63;FALSE
+62;Bangladesh ;Software Engineering of Distributed Systems;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+63;Sudan ;Renewable Electricity Production;2021;Uppsala University;UU;59,8509;17,63;FALSE
+64;Ukraine ;Energy-efficient and Environmental Building Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+65;Myanmar (Burma) ;Health Economics, Policy and Management;2021;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+66;Azerbaijan ;Entrepreneurship and Innovation Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+67;Philippines ;Political Science with Specialization in Global Asian Studies;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+68;Russia ;Innovation and Design;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+69;Guatemala ;Programme in Development Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+70;Russia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+71;Ghana ;Service Management, Supply Chain Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+72;Russia ;Environmental Management and Policy;2021;Lund University;LU;55,7119;13,2035;FALSE
+73;Peru ;Entrepreneurship and Innovation;2021;Lund University;LU;55,7119;13,2035;FALSE
+74;Cameroon ;Accounting;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+75;Belarus ;Human-Computer Interaction;2021;Uppsala University;UU;59,8509;17,63;FALSE
+76;Sri Lanka ;Renewable Electricity Production;2021;Uppsala University;UU;59,8509;17,63;FALSE
+77;Gambia ;Public Health with a Specialization in Health Economics;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+78;Malawi ;Media and Communication Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+79;Pakistan ;Public Health;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+80;Colombia ;Information Technology and Learning;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+81;Uganda ;Humanitarian Action and Conflicts;2021;Uppsala University;UU;59,8509;17,63;FALSE
+82;Nigeria ;Chemistry;2021;Linköping University;LIU;58,3978;15,576;FALSE
+83;Malawi ;Strategic Communication;2021;Örebro University;ORU;59,2548;15,2493;FALSE
+84;Nigeria ;Global Sexual Reproductive Health;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+85;Nepal ;SUSTAINABLE ELECTRIC POWER ENGINEERING AND ELECTROMOBILITY;2021;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+86;Sri Lanka ;SUSTAINABLE ENERGY SYSTEMS;2021;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+87;Rwanda ;Horticultural Science;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+88;Ghana ;Environmental Management and Policy;2021;Lund University;LU;55,7119;13,2035;FALSE
+89;Liberia ;INFRASTRUCTURE AND ENVIRONMENTAL ENGINEERING;2021;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+90;Jordan ;Bioentrepreneurship;2021;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+91;Zimbabwe ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+92;Pakistan ;Economics;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+93;Russia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+94;Zimbabwe ;Sports Physiology and Medicine;2021;Örebro University;ORU;59,2548;15,2493;FALSE
+95;Azerbaijan ;Education with International and Comparative specialisation;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+96;Brazil ;Sea and Society;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+97;Nigeria ;Environmental Management and Physical Planning;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+98;Jordan ;Media Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+99;Sudan ;Renewable Electricity Production;2021;Uppsala University;UU;59,8509;17,63;FALSE
+100;Egypt ;Infection Biology;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+101;Nigeria ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+102;Zimbabwe ;Business Administration (MBA): Business Management;2021;University of Gävle;HIG;60,6685;17,1188;FALSE
+103;Ethiopia ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+104;Cambodia ;International Business;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+105;Myanmar (Burma) ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+106;Malawi ;Economics;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+107;Rwanda ;Global Health;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+108;Morocco ;Sustainable Energy Processes and Systems;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+109;Bolivia ;Earth Science Hydrology/Hydrogeology;2021;Uppsala University;UU;59,8509;17,63;FALSE
+110;Colombia ;Social Sciences Digital Media and Society;2021;Uppsala University;UU;59,8509;17,63;FALSE
+111;Myanmar (Burma) ;Energy-efficient and Environmental Building Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+112;Bangladesh ;Accounting and Management Control;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+113;Zambia ;Science for Sustainable Development;2021;Linköping University;LIU;58,3978;15,576;FALSE
+114;Jordan ;Energy Efficient Built Environments;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+115;Rwanda ;Strategic Leadership towards Sustainability;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+116;Kenya ;Humanities - Gender Studies;2021;Uppsala University;UU;59,8509;17,63;FALSE
+117;Uganda ;Industrial Economics and Management;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+118;Ecuador ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+119;Zimbabwe ;Accounting and Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+120;Zimbabwe ;Sports Physiology and Medicine;2021;Örebro University;ORU;59,2548;15,2493;FALSE
+121;Azerbaijan ;Education with International and Comparative specialisation;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+122;Brazil ;Sea and Society;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+123;Nigeria ;Environmental Management and Physical Planning;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+124;Jordan ;Media Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+125;Sudan ;Renewable Electricity Production;2021;Uppsala University;UU;59,8509;17,63;FALSE
+126;Egypt ;Infection Biology;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+127;Nigeria ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+128;Zimbabwe ;Business Administration (MBA): Business Management;2021;University of Gävle;HIG;60,6685;17,1188;FALSE
+129;Ethiopia ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+130;Cambodia ;International Business;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+131;Myanmar (Burma) ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+132;Malawi ;Economics;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+133;Rwanda ;Global Health;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+134;Morocco ;Sustainable Energy Processes and Systems;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+135;Bolivia ;Earth Science Hydrology/Hydrogeology;2021;Uppsala University;UU;59,8509;17,63;FALSE
+136;Colombia ;Social Sciences Digital Media and Society;2021;Uppsala University;UU;59,8509;17,63;FALSE
+137;Myanmar (Burma) ;Energy-efficient and Environmental Building Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+138;Bangladesh ;Accounting and Management Control;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+139;Zambia ;Science for Sustainable Development;2021;Linköping University;LIU;58,3978;15,576;FALSE
+140;Jordan ;Energy Efficient Built Environments;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+141;Rwanda ;Strategic Leadership towards Sustainability;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+142;Kenya ;Humanities - Gender Studies;2021;Uppsala University;UU;59,8509;17,63;FALSE
+143;Uganda ;Industrial Economics and Management;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+144;Ecuador ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+145;Zimbabwe ;Accounting and Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+146;Zimbabwe ;Sports Physiology and Medicine;2021;Örebro University;ORU;59,2548;15,2493;FALSE
+147;Azerbaijan ;Education with International and Comparative specialisation;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+148;Brazil ;Sea and Society;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+149;Nigeria ;Environmental Management and Physical Planning;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+150;Jordan ;Media Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+151;Sudan ;Renewable Electricity Production;2021;Uppsala University;UU;59,8509;17,63;FALSE
+152;Egypt ;Infection Biology;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+153;Nigeria ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+154;Zimbabwe ;Business Administration (MBA): Business Management;2021;University of Gävle;HIG;60,6685;17,1188;FALSE
+155;Ethiopia ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+156;Cambodia ;International Business;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+157;Myanmar (Burma) ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+158;Malawi ;Economics;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+159;Rwanda ;Global Health;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+160;Morocco ;Sustainable Energy Processes and Systems;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+161;Bolivia ;Earth Science Hydrology/Hydrogeology;2021;Uppsala University;UU;59,8509;17,63;FALSE
+162;Colombia ;Social Sciences Digital Media and Society;2021;Uppsala University;UU;59,8509;17,63;FALSE
+163;Myanmar (Burma) ;Energy-efficient and Environmental Building Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+164;Bangladesh ;Accounting and Management Control;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+165;Zambia ;Science for Sustainable Development;2021;Linköping University;LIU;58,3978;15,576;FALSE
+166;Jordan ;Energy Efficient Built Environments;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+167;Rwanda ;Strategic Leadership towards Sustainability;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+168;Kenya ;Humanities - Gender Studies;2021;Uppsala University;UU;59,8509;17,63;FALSE
+169;Uganda ;Industrial Economics and Management;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+170;Ecuador ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+171;Zimbabwe ;Accounting and Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+172;Kenya ;Global Health;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+173;Egypt ;Data Analytics and Business Economics;2021;Lund University;LU;55,7119;13,2035;FALSE
+174;Ethiopia ;Communication Systems;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+175;Ukraine ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+176;Gambia ;Global Health;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+177;Ethiopia ;SOFTWARE ENGINEERING AND TECHNOLOGY;2021;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+178;Cambodia ;Computer Science;2021;Uppsala University;UU;59,8509;17,63;FALSE
+179;Indonesia ;Energy Efficient Built Environments;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+180;Azerbaijan ;Sustainable Production Development;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+181;Ukraine ;Sociology of Education;2021;Uppsala University;UU;59,8509;17,63;FALSE
+182;Turkey ;International Migration and Ethnic Relations;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+183;Guatemala ;Infectious Disease Control;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+184;Cambodia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+185;Rwanda ;Finance;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+186;Egypt ;Drug Discovery and Development;2021;Uppsala University;UU;59,8509;17,63;FALSE
+187;Philippines ;MATERIALS CHEMISTRY;2021;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+188;Colombia ;Data Analytics and Business Economics;2021;Lund University;LU;55,7119;13,2035;FALSE
+189;Zambia ;Civil Engineering, with specialization in mining and Geotechnical Engineering;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+190;Bangladesh ;Business Administration - Strategy and Management in International Organisations;2021;Linköping University;LIU;58,3978;15,576;FALSE
+191;Georgia ;Accounting and Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+192;Bangladesh ;Textile Value Chain Management;2021;University of Borås;HB;57,7248;12,9403;FALSE
+193;Ukraine ;Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+194;Cameroon ;Public Health;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+195;Colombia ;Energy Efficient Built Environments;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+196;Sri Lanka ;Information Security;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+197;Azerbaijan ;European Business Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+198;Ukraine ;Urban Studies: Urban Business and Development – Real Estate and Transport;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+199;Bangladesh ;Environmental Engineering and Sustainable Infrastructure;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+200;Peru ;International Marketing & Brand Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+201;Zambia ;Welfare Policies and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+202;Bangladesh ;Infection Biology;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+203;Ethiopia ;Architecture;2021;Lund University;LU;55,7119;13,2035;FALSE
+204;Bangladesh ;Public Health;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+205;Kenya ;Outdoor and Sustainability Education;2021;Linköping University;LIU;58,3978;15,576;FALSE
+206;Liberia ;Public Health;2021;Lund University;LU;55,7119;13,2035;FALSE
+207;Rwanda ;Finance;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+208;Rwanda ;Production Engineering and Management;2021;Jönköping University;HJ;57,7786;14,1619;FALSE
+209;Ghana ;Chemistry for Renewable Energy;2021;Uppsala University;UU;59,8509;17,63;FALSE
+210;Georgia ;Strategic Communication;2021;Lund University;LU;55,7119;13,2035;FALSE
+211;Ethiopia ;Public Health;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+212;Rwanda ;Environmental Engineering and Sustainable Infrastructure;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+213;Sudan ;Public Health with a Specialization in Health Economics;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+214;Sri Lanka ;Bioentrepreneurship;2021;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+215;Ukraine ;Sustainable Urban Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+216;Turkey ;Investment Treaty Arbitration;2021;Uppsala University;UU;59,8509;17,63;FALSE
+217;Indonesia ;European Business Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+218;Liberia ;Economics;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+219;Turkey ;Social Studies of Gender;2021;Lund University;LU;55,7119;13,2035;FALSE
+220;Belarus ;Innovation and Design;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+221;Philippines ;Leadership for Sustainability;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+222;Ghana ;Public Health Science - Health Economics;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+223;Indonesia ;International Marketing & Brand Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+224;Ukraine ;Urban Studies: Urban Business and Development – Real Estate and Transport;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+225;Bangladesh ;Environmental Engineering and Sustainable Infrastructure;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+226;Peru ;International Marketing & Brand Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+227;Zambia ;Welfare Policies and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+228;Bangladesh ;Infection Biology;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+229;Ethiopia ;Architecture;2021;Lund University;LU;55,7119;13,2035;FALSE
+230;Bangladesh ;Public Health;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+231;Kenya ;Outdoor and Sustainability Education;2021;Linköping University;LIU;58,3978;15,576;FALSE
+232;Liberia ;Public Health;2021;Lund University;LU;55,7119;13,2035;FALSE
+233;Rwanda ;Finance;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+234;Rwanda ;Production Engineering and Management;2021;Jönköping University;HJ;57,7786;14,1619;FALSE
+235;Ghana ;Chemistry for Renewable Energy;2021;Uppsala University;UU;59,8509;17,63;FALSE
+236;Georgia ;Strategic Communication;2021;Lund University;LU;55,7119;13,2035;FALSE
+237;Ethiopia ;Public Health;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+238;Rwanda ;Environmental Engineering and Sustainable Infrastructure;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+239;Sudan ;Public Health with a Specialization in Health Economics;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+240;Sri Lanka ;Bioentrepreneurship;2021;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+241;Ukraine ;Sustainable Urban Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+242;Turkey ;Investment Treaty Arbitration;2021;Uppsala University;UU;59,8509;17,63;FALSE
+243;Indonesia ;European Business Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+244;Liberia ;Economics;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+245;Turkey ;Social Studies of Gender;2021;Lund University;LU;55,7119;13,2035;FALSE
+246;Belarus ;Innovation and Design;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+247;Philippines ;Leadership for Sustainability;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+248;Ghana ;Public Health Science - Health Economics;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+249;Indonesia ;International Marketing & Brand Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+250;Morocco ;Resource Recovery-Sustainable Energy Processes;2021;University of Borås;HB;57,7248;12,9403;FALSE
+251;Rwanda ;International Business;2021;University West;HV;58,2832;12,294;FALSE
+252;Kenya ;Economics;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+253;Azerbaijan ;Economics;2021;Lund University;LU;55,7119;13,2035;FALSE
+254;Nepal ;Sustainable Energy Engineering;2021;Lund University;LU;55,7119;13,2035;FALSE
+255;Egypt ;Entrepreneurship and Innovation Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+256;Sudan ;Communication Systems;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+257;Georgia ;Environmental Law;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+258;Indonesia ;Entrepreneurship;2021;Uppsala University;UU;59,8509;17,63;FALSE
+259;Russia ;Business Intelligence;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+260;Russia ;Entrepreneurship, Sustainability and Social Change;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+261;Tanzania ;Public Health within Health and Social Welfare;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+262;Ethiopia ;Strategic Information Systems Management;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+263;Vietnam ;Marketing Communication;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+264;Uganda ;Computer Science: Innovation for Change in a Digital Society;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+265;Egypt ;Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+266;Peru ;Environmental Engineering and Sustainable Infrastructure;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+267;Pakistan ;Privacy, Information and Cyber Security;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+268;Russia ;International Strategic Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+269;Uganda ;Social Work and Human Rights;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+270;Ghana ;Outdoor and Sustainability Education;2021;Linköping University;LIU;58,3978;15,576;FALSE
+271;Azerbaijan ;Digital Service Innovation;2021;Halmstad University;HH;56,6647;12,878;FALSE
+272;Azerbaijan ;European Business Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+273;Honduras ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+274;Ukraine ;European Intellectual Proterty Law;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+275;Sudan ;Public Health with a Specialization in Health Economics;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+276;Azerbaijan ;Innovation and Industrial Management;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+277;Ukraine ;Managing People, Knowledge & Change;2021;Lund University;LU;55,7119;13,2035;FALSE
+278;Ethiopia ;Infection Biology;2021;University of Skövde;HS;58,3941;13,8535;FALSE
+279;Nepal ;Leadership for Sustainable Development: Sociology;2021;Södertörn University;SH;59,2194;17,9434;FALSE
+280;Tanzania ;Environmental Sciences with focus on sustainable development;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+281;Philippines ;Sustainability Engineering and Management;2021;Linköping University;LIU;58,3978;15,576;FALSE
+282;Tunisia ;Knowledge-based Entrepreneurship;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+283;Egypt ;Service Management, Sustainable Service Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+284;Brazil ;International Marketing & Brand Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+285;Honduras ;INFRASTRUCTURE AND ENVIRONMENTAL ENGINEERING;2021;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+286;Brazil ;Architectural Lighting Design;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+287;Tanzania ;Public Health within Health and Social Welfare;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+288;Azerbaijan ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+289;Kenya ;Agricultural Economics and Management;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+290;Kenya ;Animal Science;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+291;Bolivia ;Political communication;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+292;Colombia ;Business Administration - Strategy and Management in International Organisations;2021;Linköping University;LIU;58,3978;15,576;FALSE
+293;Egypt ;Solar Energy Engineering;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+294;Georgia ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+295;Brazil ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+296;Azerbaijan ;Sustainable Development;2021;Uppsala University;UU;59,8509;17,63;FALSE
+297;Russia ;Social Sciences Digital Media and Society;2021;Uppsala University;UU;59,8509;17,63;FALSE
+298;Philippines ;Science for Sustainable Development;2021;Linköping University;LIU;58,3978;15,576;FALSE
+299;Russia ;International Administration and Global Governance - Gothenburg;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+300;Jordan ;Sustainable Urban Design;2021;Lund University;LU;55,7119;13,2035;FALSE
+301;Ethiopia ;Chemistry for Renewable Energy;2021;Uppsala University;UU;59,8509;17,63;FALSE
+302;Egypt ;Entrepreneurship;2021;Uppsala University;UU;59,8509;17,63;FALSE
+303;Ghana ;Public Health;2021;Lund University;LU;55,7119;13,2035;FALSE
+304;Russia ;International Commercial Arbitration Law;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+305;Gambia ;Public Health with a Specialization in Health Economics;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+306;Bolivia ;Sustainable Energy Engineering;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+307;Kenya ;Strategic Leadership towards Sustainability;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+308;Turkey ;Political Science: Global Politics and Societal Change;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+309;Morocco ;Strategic Leadership towards Sustainability;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+310;Russia ;Environmental Engineering and Sustainable Infrastructure;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+311;Brazil ;Biomedicine;2021;Lund University;LU;55,7119;13,2035;FALSE
+312;Sri Lanka ;"Business Process Control and Supply Chain Management - Frontiers in
+Logistics & Supply Chain Managemen";2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+313;Kenya ;Information Systems;2021;Uppsala University;UU;59,8509;17,63;FALSE
+314;Armenia ;Ethnic and Migration Studies;2021;Linköping University;LIU;58,3978;15,576;FALSE
+315;Georgia ;Communication;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+316;Myanmar (Burma) ;Global Health;2021;Uppsala University;UU;59,8509;17,63;FALSE
+317;Ukraine ;Media and Communication Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+318;Russia ;European Intellectual Proterty Law;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+319;Cambodia ;Education with International and Comparative specialisation;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+320;Russia ;European Studies - Social Science Track;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+321;Georgia ;International Marketing;2021;Mälardalen University;MDH;59,6186;16,5404;FALSE
+322;Colombia ;Sustainable Development;2021;Uppsala University;UU;59,8509;17,63;FALSE
+323;Armenia ;Media Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+324;Sudan ;Marketing;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+325;Philippines ;Landscape Architecture;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+326;Egypt ;Business Development and Internationalisation;2021;Umeå University;UMU;63,8202;20,3054;FALSE
+327;Ethiopia ;Applied Computer Science for Sustainable Development;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+328;Belarus ;Business Intelligence;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+329;Georgia ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+330;Morocco ;Wind Power Project Management;2021;Uppsala University;UU;59,8509;17,63;FALSE
+331;Tanzania ;International Affairs;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+332;Bangladesh ;Public Health Sciences: Societal perspectives;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+333;Turkey ;Political Science: Global Politics;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+334;Georgia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+335;Vietnam ;Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+336;Russia ;Media Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+337;Brazil ;Programme in Development Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+338;Russia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+339;Georgia ;Ethnic and Migration Studies;2021;Linköping University;LIU;58,3978;15,576;FALSE
+340;Azerbaijan ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+341;Armenia ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+342;Ukraine ;Global Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+343;Tunisia ;Knowledge-based Entrepreneurship;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+344;Russia ;Strategic Human Resource Management and Labour Relations;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+345;Philippines ;Maintenance Engineering;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+346;Gambia ;Outdoor and Sustainability Education;2021;Linköping University;LIU;58,3978;15,576;FALSE
+347;Guatemala ;Pharmaceutical Modelling;2021;Uppsala University;UU;59,8509;17,63;FALSE
+348;Rwanda ;Leadership and Management in International Contexts;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+349;Georgia ;Digital Service Innovation;2021;Halmstad University;HH;56,6647;12,878;FALSE
+350;Azerbaijan ;European Business Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+351;Sudan ;Communication Systems;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+352;Russia ;Environmental Economics and Management;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+353;Ethiopia ;Applied Computer Science for Sustainable Development;2021;Kristianstad University;HKR;56,0485;14,1463;FALSE
+354;Belarus ;Business Intelligence;2021;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+355;Georgia ;International Human Rights Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+356;Morocco ;Wind Power Project Management;2021;Uppsala University;UU;59,8509;17,63;FALSE
+357;Tanzania ;International Affairs;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+358;Bangladesh ;Public Health Sciences: Societal perspectives;2021;Stockholm University;SU;59,3622;18,0578;FALSE
+359;Turkey ;Political Science: Global Politics;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+360;Georgia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+361;Vietnam ;Finance;2021;Lund University;LU;55,7119;13,2035;FALSE
+362;Russia ;Media Management;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+363;Brazil ;Programme in Development Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+364;Russia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+365;Georgia ;Ethnic and Migration Studies;2021;Linköping University;LIU;58,3978;15,576;FALSE
+366;Azerbaijan ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;FALSE
+367;Armenia ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;FALSE
+368;Ukraine ;Global Studies;2021;Lund University;LU;55,7119;13,2035;FALSE
+369;Tunisia ;Knowledge-based Entrepreneurship;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+370;Russia ;Strategic Human Resource Management and Labour Relations;2021;University of Gothenburg;GU;57,6982;11,9719;FALSE
+371;Philippines ;Maintenance Engineering;2021;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+372;Gambia ;Outdoor and Sustainability Education;2021;Linköping University;LIU;58,3978;15,576;FALSE
+373;Guatemala ;Pharmaceutical Modelling;2021;Uppsala University;UU;59,8509;17,63;FALSE
+374;Rwanda ;Leadership and Management in International Contexts;2021;Linnaeus University;LNU;56,8545;14,83;FALSE
+375;Georgia ;Digital Service Innovation;2021;Halmstad University;HH;56,6647;12,878;FALSE
+376;Azerbaijan ;European Business Law;2021;Lund University;LU;55,7119;13,2035;FALSE
+377;Sudan ;Communication Systems;2021;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+378;Russia ;Environmental Economics and Management;2021;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+379;Rwanda ;Information Systems;2021;Uppsala University;UU;59,8509;17,63;TRUE
+380;Sudan ;Renewable Electric Power Systems;2021;Linnaeus University;LNU;56,8545;14,83;TRUE
+381;Malawi ;Economics;2021;Umeå University;UMU;63,8202;20,3054;TRUE
+382;Ukraine ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;TRUE
+383;Nigeria ;Chemistry;2021;Linköping University;LIU;58,3978;15,576;TRUE
+384;Liberia ;Exploration and Environmental Geosciences;2021;Luleå University of Technology;LTU;65,618;22,1402;TRUE
+385;Georgia ;Social Work and Human Rights;2021;University of Gothenburg;GU;57,6982;11,9719;TRUE
+386;Rwanda ;Software Engineering;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;TRUE
+387;Rwanda ;Bioentrepreneurship;2021;Karolinska University Hospital;KI;59,3522;18,0322;TRUE
+388;Sudan ;Computer Science;2021;Uppsala University;UU;59,8509;17,63;TRUE
+389;Turkey ;Comparative and International Tax Law;2021;Uppsala University;UU;59,8509;17,63;TRUE
+390;Azerbaijan ;European Economic Law;2021;Stockholm University;SU;59,3622;18,0578;TRUE
+391;Malawi ;Computer Science: Applied Data Science;2021;Malmö University;MAU;55,6088;12,9946;TRUE
+392;Sudan ;Renewable Electricity Production;2021;Uppsala University;UU;59,8509;17,63;TRUE
+393;Nigeria ;Human Computer Interaction and User Experience;2021;Umeå University;UMU;63,8202;20,3054;TRUE
+394;Russia ;Drug Discovery and Development;2021;Uppsala University;UU;59,8509;17,63;TRUE
+395;Turkey ;International and European Relations;2021;Linköping University;LIU;58,3978;15,576;TRUE
+396;Gambia ;Social Studies of Gender;2021;Lund University;LU;55,7119;13,2035;TRUE
+397;Rwanda ;Accounting;2021;Umeå University;UMU;63,8202;20,3054;TRUE
+398;Uganda ;Business Administration - Specialising in Auditing and Control;2021;Kristianstad University;HKR;56,0485;14,1463;TRUE
+399;Sri Lanka ;Sustainable Development;2021;Uppsala University;UU;59,8509;17,63;TRUE
+400;Indonesia ;Economic Growth, Population and Development;2021;Lund University;LU;55,7119;13,2035;TRUE
+401;Gambia ;Molecular Biology, Microbiology;2021;Lund University;LU;55,7119;13,2035;TRUE
+402;Zimbabwe ;Social Sciences Digital Media and Society;2021;Uppsala University;UU;59,8509;17,63;TRUE
+403;Egypt ;Industrial Economics and Management;2021;Blekinge Institute of Technology;BTH;56,1809;15,5922;TRUE
+404;Azerbaijan ;Leadership and Organisation: Societal Challenges and Organisational Changes;2021;Malmö University;MAU;55,6088;12,9946;TRUE
+405;Peru ;Public Health;2021;Lund University;LU;55,7119;13,2035;TRUE
+406;Gambia ;International Development and Management;2021;Lund University;LU;55,7119;13,2035;TRUE
+407;Honduras ;Biology, Conservation Biology;2021;Lund University;LU;55,7119;13,2035;TRUE
+408;Ukraine ;International Migration and Ethnic Relations;2021;Malmö University;MAU;55,6088;12,9946;TRUE
+409;Armenia ;Russian and Eurasian Studies;2021;Uppsala University;UU;59,8509;17,63;TRUE
+410;Sri Lanka ;Global Health;2021;Uppsala University;UU;59,8509;17,63;TRUE
+411;Russia ;Psychological Science;2021;University of Gothenburg;GU;57,6982;11,9719;TRUE
+412;Zimbabwe ;Business Administration - Strategy and Management in International Organisations;2020;Linköping University;LIU;58,3978;15,576;FALSE
+413;Gambia ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+414;Uganda ;Public Health with a Specialization in Health Economics;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+415;Zambia ;Rural Development and Natural Resource Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+416;Zambia ;Solar Energy Engineering;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+417;Ghana ;Political Science - Gothenburg;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+418;Egypt ;Environmental Science - environmental Toxicology and Chemistry;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+419;Nigeria ;Industrial Management and Innovation;2020;Uppsala University;UU;59,8509;17,63;FALSE
+420;Indonesia ;Complex Adaptive Systems;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+421;Zambia ;Soil, Water and Environment;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+422;Uganda ;Animal Science;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+423;Nigeria ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+424;Bolivia ;Business Intelligence;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+425;Ghana ;Environmental Engineering and Sustainable Infrastructure;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+426;Liberia ;Criminology;2020;Malmö University;MAU;55,6088;12,9946;FALSE
+427;Cameroon ;Public Health Science - Health Equality;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+428;Ethiopia ;Data Science;2020;University of Skövde;HS;58,3941;13,8535;FALSE
+429;Ethiopia ;Information Systems;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+430;Gambia ;Accounting;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+431;Bangladesh ;Biomedicine;2020;Uppsala University;UU;59,8509;17,63;FALSE
+432;Kenya ;Landscape Architecture for Sustainable Urbanisation;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+433;Zambia ;Global Health;2020;Uppsala University;UU;59,8509;17,63;FALSE
+434;Rwanda ;Nutrition Science;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+435;Ghana ;Outdoor and Sustainability Education;2020;Linköping University;LIU;58,3978;15,576;FALSE
+436;Egypt ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+437;Bangladesh ;International Development and Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+438;Cameroon ;Business Studies with an International Focus;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+439;Gambia ;IT and Management;2020;University West;HV;58,2832;12,294;FALSE
+440;Bangladesh ;Water Engineering;2020;Uppsala University;UU;59,8509;17,63;FALSE
+441;Zimbabwe ;Financial Engineering;2020;Mälardalen University;MDH;59,6186;16,5404;FALSE
+442;Myanmar (Burma) ;Public Health Science - Health Economics;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+443;Myanmar (Burma) ;Public Health;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+444;Nigeria ;Media and Communication Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+445;Liberia ;Horticultural Science;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+446;Rwanda ;Rural Development and Natural Resource Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+447;Gambia ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+448;Uganda ;Global Health;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+449;Nigeria ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+450;Ghana ;Animal Science;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+451;Ghana ;Experimental and Medical Biosciences;2020;Linköping University;LIU;58,3978;15,576;FALSE
+452;Nigeria ;Entrepreneurship, Sustainability and Social Change;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+453;Nigeria ;Communication Systems;2020;Linköping University;LIU;58,3978;15,576;FALSE
+454;Ghana ;Accounting;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+455;Rwanda ;Nutrition Science;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+456;Cameroon ;Geology, Biogeology;2020;Lund University;LU;55,7119;13,2035;FALSE
+457;Nigeria ;Global Health;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+458;Liberia ;Communication;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+459;Indonesia ;Education with International and Comparative specialisation;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+460;Gambia ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+461;Ghana ;Global Sexual Reproductive Health;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+462;Liberia ;Environmental Science and Sustainability;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+463;Gambia ;Global Sexual Reproductive Health;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+464;Uganda ;Global Health;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+465;Ghana ;Business Administration (MBA): Business Management;2020;University of Gävle;HIG;60,6685;17,1188;FALSE
+466;Rwanda ;Accounting;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+467;Malawi ;Welfare Policies and Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+468;Ethiopia ;Peace and Development Work;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+469;Tanzania ;Environmental Communication and Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+470;Pakistan ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2020;Halmstad University;HH;56,6647;12,878;FALSE
+471;Egypt ;Global Health;2020;Uppsala University;UU;59,8509;17,63;FALSE
+472;Peru ;Water Resources Engineering;2020;Lund University;LU;55,7119;13,2035;FALSE
+473;Ethiopia ;Information Security;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+474;Jordan ;Engineering Management;2020;Jönköping University;HJ;57,7786;14,1619;FALSE
+475;Cameroon ;"Business Process Control and Supply Chain Management - Frontiers in
+Logistics & Supply Chain Managemen";2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+476;Bangladesh ;European and International Trade and Tax Law;2020;Lund University;LU;55,7119;13,2035;FALSE
+477;Bangladesh ;European and International Trade and Tax Law;2020;Lund University;LU;55,7119;13,2035;FALSE
+478;Colombia ;Sustainable Management;2020;Uppsala University;UU;59,8509;17,63;FALSE
+479;Brazil ;ICT Innovation, track Cloud and network infrastructures;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+480;Kenya ;International Affairs;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+481;Egypt ;IT Management;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+482;Cambodia ;Accounting and Finance;2020;Lund University;LU;55,7119;13,2035;FALSE
+483;Zimbabwe ;Global Health;2020;Uppsala University;UU;59,8509;17,63;FALSE
+484;Indonesia ;European and International Trade and Tax Law;2020;Lund University;LU;55,7119;13,2035;FALSE
+485;Rwanda ;Information Systems - Information Security Management;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+486;Malawi ;Educational Research;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+487;Uganda ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2020;Halmstad University;HH;56,6647;12,878;FALSE
+488;Ghana ;Finance;2020;University West;HV;58,2832;12,294;FALSE
+489;Rwanda ;Strategic Leadership Towards Sustainability;2020;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+490;Philippines ;Innovation through Business, Engineering and Design;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+491;Uganda ;Mathematics - Applied Mathematics and Statistics;2020;Uppsala University;UU;59,8509;17,63;FALSE
+492;Ghana ;Digital Service Innovation;2020;Halmstad University;HH;56,6647;12,878;FALSE
+493;Zimbabwe ;Information Security;2020;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+494;Kenya ;Agricultural Economics and Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+495;Liberia ;Strategic Communication;2020;Lund University;LU;55,7119;13,2035;FALSE
+496;Ghana ;Horticultural Science;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+497;Tanzania ;Social Work and Human Rights;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+498;Ethiopia ;Constitutional Law and Human Rights;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+499;Rwanda ;Public Health;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+500;Indonesia ;Strategic Communication;2020;Lund University;LU;55,7119;13,2035;FALSE
+501;Nepal ;Software Engineering and Technology;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+502;Tanzania ;Leadership and Management in International Contexts;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+503;Tanzania ;International Administration and Global Governance - Gothenburg;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+504;Tanzania ;Rural Development and Natural Resource Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+505;Peru ;Economic Growth, Population and Development;2020;Lund University;LU;55,7119;13,2035;FALSE
+506;Honduras ;International Strategic Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+507;Ecuador ;Sustainable Urban Design;2020;Lund University;LU;55,7119;13,2035;FALSE
+508;Ghana ;Business Administration (MBA): Business Management;2020;University of Gävle;HIG;60,6685;17,1188;FALSE
+509;Philippines ;Pharmaceutical Technology: Discovery, Development and Production;2020;Lund University;LU;55,7119;13,2035;FALSE
+510;Rwanda ;Renewable Electricity Production;2020;Uppsala University;UU;59,8509;17,63;FALSE
+511;Cameroon ;Investigative Journalism;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+512;Tanzania ;Educational Research;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+513;Ecuador ;Design and Construction Project Management;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+514;Nepal ;Mechanical Engineering - Structural Mechanics;2020;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+515;Myanmar (Burma) ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+516;Zimbabwe ;Pharmaceutical Technology: Discovery, Development and Production;2020;Lund University;LU;55,7119;13,2035;FALSE
+517;Uganda ;Computer Systems and Networks;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+518;Nigeria ;Accounting and Financial Management;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+519;Colombia ;Renewable Electricity Production;2020;Uppsala University;UU;59,8509;17,63;FALSE
+520;Pakistan ;Industrial Management and Innovation;2020;Uppsala University;UU;59,8509;17,63;FALSE
+521;Tanzania ;Economics;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+522;Gambia ;Global Health;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+523;Colombia ;Sustainable Energy Engineering;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+524;Sudan ;Exercise Biomedicine - Human Performance;2020;Halmstad University;HH;56,6647;12,878;FALSE
+525;Cambodia ;International Affairs;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+526;Sudan ;Environmental Management and Policy;2020;Lund University;LU;55,7119;13,2035;FALSE
+527;Nigeria ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+528;Philippines ;Communication;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+529;Rwanda ;Public Health;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+530;Myanmar (Burma) ;Health Informatics;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+531;Tanzania ;Global Health;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+532;Tunisia ;Finance;2020;Lund University;LU;55,7119;13,2035;FALSE
+533;Honduras ;Communication Systems;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+534;Indonesia ;Macromolecular Materials;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+535;Zimbabwe ;Information Systems;2020;Lund University;LU;55,7119;13,2035;FALSE
+536;Nepal ;Infrastructure and Environmental Engineering;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+537;Rwanda ;Hydrology, Hydrogeology and Water Recourses;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+538;Cambodia ;Media and Communication Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+539;Ethiopia ;Leadership and Organisation: Societal Challenges and Organisational Changes;2020;Malmö University;MAU;55,6088;12,9946;FALSE
+540;Nigeria ;Sustainable Management;2020;Uppsala University;UU;59,8509;17,63;FALSE
+541;Indonesia ;International Strategic Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+542;Zambia ;Development Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+543;Vietnam ;Strategic Communication;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+544;Tanzania ;Information Systems;2020;Lund University;LU;55,7119;13,2035;FALSE
+545;Liberia ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2020;Halmstad University;HH;56,6647;12,878;FALSE
+546;Guatemala ;Bioinformatics;2020;Lund University;LU;55,7119;13,2035;FALSE
+547;Kenya ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+548;Colombia ;Urban and Regional Planning;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+549;Indonesia ;Digital Business;2020;Jönköping University;HJ;57,7786;14,1619;FALSE
+550;Liberia ;Media and Communication Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+551;Malawi ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2020;Halmstad University;HH;56,6647;12,878;FALSE
+552;Cambodia ;Media and Communication Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+553;Sudan ;Manufacturing Engineering;2020;University West;HV;58,2832;12,294;FALSE
+554;Tunisia ;Chemistry;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+555;Zambia ;Social Studies of Gender;2020;Lund University;LU;55,7119;13,2035;FALSE
+556;Nigeria ;Manufacturing Engineering;2020;University West;HV;58,2832;12,294;FALSE
+557;Bangladesh ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+558;Nigeria ;Strategic Leadership Towards Sustainability;2020;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+559;Egypt ;Leadership and Organisation: Societal Challenges and Organisational Changes;2020;Malmö University;MAU;55,6088;12,9946;FALSE
+560;Rwanda ;Data Science - Data engineering;2020;Uppsala University;UU;59,8509;17,63;FALSE
+561;Vietnam ;Information Technology and Learning;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+562;Pakistan ;Computer Science: Innovation for Change in a Digital Society;2020;Malmö University;MAU;55,6088;12,9946;FALSE
+563;Gambia ;Demography, Multidisciplinary;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+564;Sudan ;Transport and Geoinformation Technology;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+565;Liberia ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+566;Peru ;Robotics and Automation;2020;University West;HV;58,2832;12,294;FALSE
+567;Ghana ;Strategic Entrepreneurship for International Growth with specialization in International Marketing;2020;Halmstad University;HH;56,6647;12,878;FALSE
+568;Nigeria ;Global Health;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+569;Brazil ;Strategic Communication;2020;Lund University;LU;55,7119;13,2035;FALSE
+570;Ghana ;Sustainable Management;2020;Uppsala University;UU;59,8509;17,63;FALSE
+571;Nigeria ;Finance;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+572;Tanzania ;Public Planning for Sustainable Development;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+573;Morocco ;Business Intelligence;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+574;Ethiopia ;Nutrition Science;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+575;Sudan ;Wireless, Photonics and Space engineering;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+576;Ethiopia ;Data Science;2020;University of Skövde;HS;58,3941;13,8535;FALSE
+577;Ethiopia ;Software Engineering and Management;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+578;Rwanda ;Strategic Information Systems Management;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+579;Zambia ;Development Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+580;Cameroon ;Political Science: Global Politics and Societal Change;2020;Malmö University;MAU;55,6088;12,9946;FALSE
+581;Indonesia ;Peace and Conflict Studies;2020;Uppsala University;UU;59,8509;17,63;FALSE
+582;Sri Lanka ;Renewable Electrical Power Systems;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+583;Sudan ;Hydrology, Hydrogeology and Water Recourses;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+584;Pakistan ;Leadership and Management in International Contexts;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+585;Indonesia ;Global Management;2020;Jönköping University;HJ;57,7786;14,1619;FALSE
+586;Zimbabwe ;Environmental Science and Sustainability;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+587;Kenya ;Public Health with a Specialization in Health Economics;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+588;Cameroon ;Strategic Entrepreneurship for International Growth with specialization in International Marketing;2020;Halmstad University;HH;56,6647;12,878;FALSE
+589;Pakistan ;Renewable Electricity Production;2020;Uppsala University;UU;59,8509;17,63;FALSE
+590;Rwanda ;Information Security;2020;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+591;Indonesia ;International Development and Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+592;Tanzania ;Management of Fish and Wildlife Populations;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+593;Egypt ;Health Informatics;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+594;Sudan ;Molecular Biotechnology;2020;University of Skövde;HS;58,3941;13,8535;FALSE
+595;Jordan ;Sustainable Energy Systems;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+596;Rwanda ;Renewable Electrical Power Systems;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+597;Bangladesh ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2020;Halmstad University;HH;56,6647;12,878;FALSE
+598;Sri Lanka ;Chemical Engineering for Energy and Environment;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+599;Kenya ;International Affairs;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+600;Sri Lanka ;ICT Innovation, track Human Computer Interaction and Design;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+601;Egypt ;Development Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+602;Kenya ;Outdoor and Sustainability Education;2020;Linköping University;LIU;58,3978;15,576;FALSE
+603;Nepal ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+604;Ghana ;Public Health Sciences - specialization Public Health Epidemiology;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+605;Tanzania ;Agricultural Economics and Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+606;Gambia ;Public Health;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+607;Liberia ;Environmental Science - environmental Toxicology and Chemistry;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+608;Malawi ;Medical Sciences;2020;Lund University;LU;55,7119;13,2035;FALSE
+609;Indonesia ;Biomedicine;2020;Uppsala University;UU;59,8509;17,63;FALSE
+610;Bangladesh ;Marketing;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+611;Nigeria ;Media, Communication and Cultural Analysis;2020;Södertörn University;SH;59,2194;17,9434;FALSE
+612;Sri Lanka ;Industrial Management and Innovation;2020;Uppsala University;UU;59,8509;17,63;FALSE
+613;Bangladesh ;Information Systems;2020;Uppsala University;UU;59,8509;17,63;FALSE
+614;Kenya ;Sports Physiology and Medicine Programme;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+615;Jordan ;Energy Efficient Built Environment;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+616;Morocco ;Entrepreneurship, Sustainability and Social Change;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+617;Liberia ;International Human Rights Law;2020;Lund University;LU;55,7119;13,2035;FALSE
+618;Sudan ;Computer Systems and Networks;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+619;Ethiopia ;Public Health Sciences - specialization Health Promotion and Prevention;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+620;Nigeria ;Solar Energy Engineering;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+621;Jordan ;Health Science;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+622;Brazil ;Business Administration - Strategy and Management in International Organisations;2020;Linköping University;LIU;58,3978;15,576;FALSE
+623;Malawi ;Public Health with a Specialization in Health Economics;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+624;Kenya ;Finance;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+625;Pakistan ;Political Science;2020;Uppsala University;UU;59,8509;17,63;FALSE
+626;Vietnam ;Finance;2020;Lund University;LU;55,7119;13,2035;FALSE
+627;Bangladesh ;Fashion Marketing and Management;2020;University of Borås;HB;57,7248;12,9403;FALSE
+628;Vietnam ;Food Technology and Nutrition;2020;Lund University;LU;55,7119;13,2035;FALSE
+629;Pakistan ;International Strategic Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+630;Bangladesh ;Accounting and Finance;2020;Lund University;LU;55,7119;13,2035;FALSE
+631;Nigeria ;Sociology;2020;Lund University;LU;55,7119;13,2035;FALSE
+632;Sri Lanka ;International Business;2020;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+633;Ethiopia ;Global Sexual Reproductive Health;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+634;Sri Lanka ;Tourism Destination Development;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+635;Colombia ;Sustainable Energy Engineering;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+636;Tunisia ;Intelligent Embedded Systems;2020;Mälardalen University;MDH;59,6186;16,5404;FALSE
+637;Nepal ;Plant Biology for Sustainable Production - Plant Protection and Breeding;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+638;Zimbabwe ;Global Health;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+639;Colombia ;Energy Smart Innovation in the Built Environment;2020;Halmstad University;HH;56,6647;12,878;FALSE
+640;Zambia ;Welfare Policies and Management;2020;Lund University;LU;55,7119;13,2035;FALSE
+641;Nepal ;Educational Research;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+642;Nepal ;Water Engineering;2020;Uppsala University;UU;59,8509;17,63;FALSE
+643;Vietnam ;Public Health Sciences - specialization Public Health Epidemiology;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+644;Sri Lanka ;International Business Strategy;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+645;Bolivia ;Investment Treaty Arbitration;2020;Uppsala University;UU;59,8509;17,63;FALSE
+646;Kenya ;Tourism Destination Development;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+647;Egypt ;Bioentrepreneurship;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+648;Pakistan ;Statistics and Machine Learning;2020;Linköping University;LIU;58,3978;15,576;FALSE
+649;Indonesia ;Applied Environmental Science;2020;Halmstad University;HH;56,6647;12,878;FALSE
+650;Honduras ;Health Economic, Policy and Management;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+651;Vietnam ;Finance;2020;Lund University;LU;55,7119;13,2035;FALSE
+652;Ethiopia ;Entrepreneurship and Innovation Management;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+653;Malawi ;Public Health;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+654;Ecuador ;Economics;2020;Lund University;LU;55,7119;13,2035;FALSE
+655;Vietnam ;Innovation and Industrial Management;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+656;Malawi ;Health Informatics;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+657;Honduras ;Biomedical Engineering;2020;Linköping University;LIU;58,3978;15,576;FALSE
+658;Jordan ;Pharmaceutical Modelling;2020;Uppsala University;UU;59,8509;17,63;FALSE
+659;Bangladesh ;Leadership for Sustainability;2020;Malmö University;MAU;55,6088;12,9946;FALSE
+660;Guatemala ;Chemistry for Renewable Energy;2020;Uppsala University;UU;59,8509;17,63;FALSE
+661;Kenya ;Public Planning for Sustainable Development;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+662;Myanmar (Burma) ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+663;Philippines ;Entrepreneurship and Innovation;2020;Lund University;LU;55,7119;13,2035;FALSE
+664;Rwanda ;IT Management;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+665;Colombia ;Public Health Science - Health Economics;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+666;Jordan ;Sustainable Urban Design;2020;Lund University;LU;55,7119;13,2035;FALSE
+667;Uganda ;International Administration and Global Governance - Gothenburg;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+668;Philippines ;International Human Rights Law;2020;Lund University;LU;55,7119;13,2035;FALSE
+669;Jordan ;Product and Process Development - Production and Logistics;2020;Mälardalen University;MDH;59,6186;16,5404;FALSE
+670;Zambia ;Infrastructure and Environmental Engineering;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+671;Honduras ;Biology Evolutionary Biology;2020;Uppsala University;UU;59,8509;17,63;FALSE
+672;Brazil ;Experimental and Medical Biosciences;2020;Linköping University;LIU;58,3978;15,576;FALSE
+673;Philippines ;European Intellectual Property Law;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+674;Uganda ;Entrepreneurship, Sustainability and Social Change;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+675;Ghana ;Public Planning for Sustainable Development;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+676;Myanmar (Burma) ;Health Economic, Policy and Management;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+677;Uganda ;Sustainable Development;2020;Uppsala University;UU;59,8509;17,63;FALSE
+678;Myanmar (Burma) ;Health Economic, Policy and Management;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+679;Uganda ;Public Health ;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+680;Sri Lanka ;Master programme in Computer Science, Emphasizing Sustainable Development;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+681;Cambodia ;Asian Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+682;Tanzania ;Telecommunication Systems;2020;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+683;Morocco ;Wind Power Project Management;2020;Uppsala University;UU;59,8509;17,63;FALSE
+684;Sudan ;Data Science;2020;University of Skövde;HS;58,3941;13,8535;FALSE
+685;Sudan ;Sustainable Energy Systems;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+686;Tunisia ;Information Systems - Information Security Management;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+687;Peru ;Global Environmental History;2020;Uppsala University;UU;59,8509;17,63;FALSE
+688;Ghana ;Health Science;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+689;Cameroon ;Agricultural Economics and Management;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+690;Brazil ;Communication;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+691;Bangladesh ;Public Health;2020;Lund University;LU;55,7119;13,2035;FALSE
+692;Tunisia ;Entrepreneurship, Sustainability and Social Change;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+693;Ecuador ;Sustainable Management;2020;Uppsala University;UU;59,8509;17,63;FALSE
+694;Honduras ;Public Health Sciences - specialization Health Promotion and Prevention;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+695;Nepal ;Innovative and Sustainable Chemical Engineering;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+696;Vietnam ;International Human Rights Law;2020;Lund University;LU;55,7119;13,2035;FALSE
+697;Cambodia ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2020;Halmstad University;HH;56,6647;12,878;FALSE
+698;Ethiopia ;Computer Science Concurrency and Parallel Programming;2020;Uppsala University;UU;59,8509;17,63;FALSE
+699;Morocco ;Master of Product Development – Specialisation in Assistive Technology (MASTech);2020;Jönköping University;HJ;57,7786;14,1619;FALSE
+700;Brazil ;Global Health;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+701;Philippines ;Sociology of Education;2020;Uppsala University;UU;59,8509;17,63;FALSE
+702;Ethiopia ;Global Health;2020;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+703;Bangladesh ;Public Health Science - Health Economics;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+704;Colombia ;Applied Cultural Analysis;2020;Lund University;LU;55,7119;13,2035;FALSE
+705;Egypt ;Public Health Sciences: societal perspectives;2020;Stockholm University;SU;59,3622;18,0578;FALSE
+706;Zambia ;Finance;2020;University West;HV;58,2832;12,294;FALSE
+707;Indonesia ;Entrepreneurship and Innovation Management;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+708;Zambia ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+709;Cameroon ;Global Sexual Reproductive Health;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+710;Vietnam ;Chemistry, Biochemistry;2020;Lund University;LU;55,7119;13,2035;FALSE
+711;Colombia ;Entrepreneurship and Innovation Management;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+712;Ecuador ;Computational Social Science;2020;Linköping University;LIU;58,3978;15,576;FALSE
+713;Pakistan ;Media Management;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+714;Colombia ;Global Health;2020;Uppsala University;UU;59,8509;17,63;FALSE
+715;Rwanda ;Business Development and Internationalisation;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+716;Guatemala ;Information Technology and Learning;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+717;Gambia ;Accounting and Finance;2020;Lund University;LU;55,7119;13,2035;FALSE
+718;Sudan ;Information Systems;2020;Uppsala University;UU;59,8509;17,63;FALSE
+719;Uganda ;Tourism;2020;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+720;Peru ;Wireless Communications;2020;Lund University;LU;55,7119;13,2035;FALSE
+721;Pakistan ;Sustainable Energy Processes and Systems;2020;Linnaeus University;LNU;56,8545;14,83;FALSE
+722;Vietnam ;Business and Management International business;2020;Uppsala University;UU;59,8509;17,63;FALSE
+723;Zimbabwe ;Investment Treaty Arbitration;2020;Uppsala University;UU;59,8509;17,63;FALSE
+724;Cambodia ;Development Studies;2020;Lund University;LU;55,7119;13,2035;FALSE
+725;Colombia ;Transport and Geoinformation Technology;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+726;Tanzania ;Sustainability Engineering and Management;2020;Linköping University;LIU;58,3978;15,576;FALSE
+727;Sudan ;Sustainable Energy Systems;2020;Mälardalen University;MDH;59,6186;16,5404;FALSE
+728;Tunisia ;Business Administration - Strategy and Management in International Organisations;2020;Linköping University;LIU;58,3978;15,576;FALSE
+729;Egypt ;Accounting;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+730;Tanzania ;Public Health;2020;Umeå University;UMU;63,8202;20,3054;FALSE
+731;Tunisia ;Business Intelligence;2020;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+732;Philippines ;Sustainable Energy Engineering;2020;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+733;Pakistan ;Experimental Medicine;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+734;Rwanda ;Sports Physiology and Medicine Programme;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+735;Myanmar (Burma) ;Social Studies of Gender;2020;Lund University;LU;55,7119;13,2035;FALSE
+736;Malawi ;Strategic Communication;2020;Örebro University;ORU;59,2548;15,2493;FALSE
+737;Tanzania ;International Administration and Global Governance - Gothenburg;2020;University of Gothenburg;GU;57,6982;11,9719;FALSE
+738;Zimbabwe ;Business Administration specialising in Auditing and Control;2020;Kristianstad University;HKR;56,0485;14,1463;FALSE
+739;Ecuador ;Biomedical Engineering;2020;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+740;Bangladesh ;Finance;2020;Stockholm School of Economics;HHS;59,3416;18,0568;FALSE
+741;Ghana ;Global Management;2020;Jönköping University;HJ;57,7786;14,1619;TRUE
+742;Nigeria ;Environmental Management and Physical Planning;2020;Stockholm University;SU;59,3622;18,0578;TRUE
+743;Nigeria ;Industrial Management and Innovation;2020;Uppsala University;UU;59,8509;17,63;TRUE
+744;Rwanda ;Strategic Leadership Towards Sustainability;2020;Blekinge Institute of Technology;BTH;56,1809;15,5922;TRUE
+745;Uganda ;Sustainable Management;2020;Uppsala University;UU;59,8509;17,63;TRUE
+746;Nigeria ;Sustainable Food Systems;2020;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;TRUE
+747;Bangladesh ;Strategic Communication;2020;Örebro University;ORU;59,2548;15,2493;TRUE
+748;Uganda ;Information Systems;2020;Linnaeus University;LNU;56,8545;14,83;TRUE
+749;Rwanda ;Management of Logistics and Innovation;2020;University of Gävle;HIG;60,6685;17,1188;TRUE
+750;Bangladesh ;Environmental Sciences;2020;University of Gothenburg;GU;57,6982;11,9719;TRUE
+751;Uganda ;Renewable Electrical Power Systems;2020;Linnaeus University;LNU;56,8545;14,83;TRUE
+752;Bangladesh ;Leadership and Management in International Contexts;2020;Linnaeus University;LNU;56,8545;14,83;TRUE
+753;Ghana ;Business Administration - Strategy and Management in International Organisations;2020;Linköping University;LIU;58,3978;15,576;TRUE
+754;Bangladesh ;Energy-efficient and Environmental Building Design;2020;Lund University;LU;55,7119;13,2035;TRUE
+755;Bangladesh ;Business Administration, Marketing and Management;2020;Mid Sweden University;MIU;63,1771;14,6492;TRUE
+756;Liberia ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+757;Colombia ;Sustainable Development;2019;Uppsala University;UU;59,8509;17,63;FALSE
+758;Nigeria ;Sustainable Development;2019;Uppsala University;UU;59,8509;17,63;FALSE
+759;Tanzania ;Real Estate and Construction Management;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+760;Rwanda ;Solar Energy Engineering;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+761;Nigeria ;Public Planning for Sustainable Development;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+762;Indonesia ;ICT Innovation, Data Science KTH;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+763;Ghana ;Business Administration (MBA): Business Management;2019;University of Gävle;HIG;60,6685;17,1188;FALSE
+764;Ghana ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+765;Rwanda ;Pharmaceutical Modelling;2019;Uppsala University;UU;59,8509;17,63;FALSE
+766;Egypt ;Political Communication;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+767;Cameroon ;Global Health;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+768;Gambia ;Public Health Promotion and Prevention;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+769;Pakistan ;Production Engineering and Management;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+770;Cambodia ;Real Estate and Construction Management;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+771;Ghana ;Service Management, Retail;2019;Lund University;LU;55,7119;13,2035;FALSE
+772;Ethiopia ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+773;Kenya ;Infrastructure and Environmental Engineering;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+774;Kenya ;Social Studies of Gender;2019;Lund University;LU;55,7119;13,2035;FALSE
+775;Egypt ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+776;Nigeria ;Sustainable Food Systems;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+777;Jordan ;Renewable Electricity Production;2019;Uppsala University;UU;59,8509;17,63;FALSE
+778;Ghana ;Public Health Epidemiology;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+779;Zimbabwe ;Business Administration - Strategy and Management in International Organisations;2019;Linköping University;LIU;58,3978;15,576;FALSE
+780;Kenya ;Health Informatics;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+781;Sudan ;Sport Physiology and Medicine Programme;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+782;Pakistan ;Software Engineering;2019;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+783;Rwanda ;Strategic Information Systems Management;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+784;Rwanda ;Animal Science;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+785;Cameroon ;Rural Development and Natural Resource Management;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+786;Tanzania ;Public Planning for Sustainable Development;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+787;Gambia ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+788;Sudan ;Wireless, Photonics and Space Engineering;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+789;Uganda ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+790;Gambia ;Outdoor and Sustainability Education;2019;Linköping University;LIU;58,3978;15,576;FALSE
+791;Gambia ;Accounting;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+792;Vietnam ;Architecture;2019;Lund University;LU;55,7119;13,2035;FALSE
+793;Cameroon ;International Business Strategy;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+794;Myanmar (Burma) ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+795;Bangladesh ;Sustainable Energy Engineering;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+796;Zambia ;Information Technology and Learning;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+797;Myanmar (Burma) ;Health Economics, Policy and Management;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+798;Sudan ;Global Health;2019;Uppsala University;UU;59,8509;17,63;FALSE
+799;Tanzania ;Public Health Epidemiology;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+800;Ethiopia ;Chemistry for Renewable Energy;2019;Uppsala University;UU;59,8509;17,63;FALSE
+801;Sri Lanka ;Wind Power Project Management;2019;Uppsala University;UU;59,8509;17,63;FALSE
+802;Liberia ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+803;Nigeria ;Corporate Governance _ Accounting and Finance;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+804;Bangladesh ;Software Engineering and Management;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+805;Ghana ;Business Intelligence;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+806;Colombia ;Leadership and Management in International Contexts;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+807;Gambia ;Accounting;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+808;Rwanda ;Rural Development and Natural Resource Management;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+809;Colombia ;Maritime Management;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+810;Ghana ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+811;Pakistan ;Computer Science;2019;Linköping University;LIU;58,3978;15,576;FALSE
+812;Rwanda ;Infrastructure and Environmental Engineering;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+813;Ethiopia ;Constitutional Law and Human Rights;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+814;Bangladesh ;Industrial Management and Innovation;2019;Halmstad University;HH;56,6647;12,878;FALSE
+815;Kenya ;International Business;2019;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+816;Brazil ;Industrial Engineering and Management;2019;Linköping University;LIU;58,3978;15,576;FALSE
+817;Tanzania ;International Administration and Global Governance;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+818;Ethiopia ;Electronics Engineering;2019;Linköping University;LIU;58,3978;15,576;FALSE
+819;Brazil ;Accounting;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+820;Liberia ;Data Science;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+821;Honduras ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+822;Guatemala ;Political Communication;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+823;Bangladesh ;Architectural Lighting Design;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+824;Egypt ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+825;Gambia ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+826;Ghana ;Accounting and Finance;2019;Lund University;LU;55,7119;13,2035;FALSE
+827;Bangladesh ;Architecture and Planning Beyond Sustainability;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+828;Rwanda ;Accounting;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+829;Nepal ;Water Resources Engineering;2019;Lund University;LU;55,7119;13,2035;FALSE
+830;Egypt ;Global Health;2019;Uppsala University;UU;59,8509;17,63;FALSE
+831;Vietnam ;Finance;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+832;Bangladesh ;Economics;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+833;Rwanda ;Environmental Sciences;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+834;Zambia ;Public Health, Health Economics;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+835;Uganda ;Global Health;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+836;Tanzania ;Rural Development and Natural Resource Management;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+837;Zambia ;Water Resources Engineering;2019;Lund University;LU;55,7119;13,2035;FALSE
+838;Indonesia ;Sustainable Production Development;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+839;Indonesia ;ICT Innovation, Data Science KTH;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+840;Bolivia ;Global Studies;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+841;Zimbabwe ;Global Health;2019;Uppsala University;UU;59,8509;17,63;FALSE
+842;Nigeria ;Electronics Design;2019;Halmstad University;HH;56,6647;12,878;FALSE
+843;Rwanda ;Sustainable Food Systems;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+844;Ghana ;International Marketing & Brand Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+845;Ghana ;Informatics;2019;University of Borås;HB;57,7248;12,9403;FALSE
+846;Tanzania ;Business Administration (MBA): Business Management;2019;University of Gävle;HIG;60,6685;17,1188;FALSE
+847;Ghana ;Physical Geography and Ecosystem Science;2019;Lund University;LU;55,7119;13,2035;FALSE
+848;Zambia ;Global Health;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+849;Brazil ;Business Administration - Strategy and Management in International Organisations;2019;Linköping University;LIU;58,3978;15,576;FALSE
+850;Philippines ;Applied Ethics;2019;Linköping University;LIU;58,3978;15,576;FALSE
+851;Zambia ;Engineering Materials Science;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+852;Rwanda ;Computer Engineering;2019;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+853;Guatemala ;Sustainable Development;2019;Uppsala University;UU;59,8509;17,63;FALSE
+854;Tunisia ;Bioentrepreneurship;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+855;Philippines ;Disaster Risk Management and Climate Change Adaptation;2019;Lund University;LU;55,7119;13,2035;FALSE
+856;Tunisia ;Textile Engineering;2019;University of Borås;HB;57,7248;12,9403;FALSE
+857;Liberia ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+858;Zambia ;Applied Environmental Science;2019;Halmstad University;HH;56,6647;12,878;FALSE
+859;Cameroon ;Social Studies of Gender;2019;Lund University;LU;55,7119;13,2035;FALSE
+860;Colombia ;International Business Strategy;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+861;Indonesia ;Environmental Studies and Sustainability Science;2019;Lund University;LU;55,7119;13,2035;FALSE
+862;Ethiopia ;Data Science;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+863;Uganda ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+864;Jordan ;Public Health Epidemiology;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+865;Sudan ;Sustainable Structural Engineering;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+866;Malawi ;Global Health;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+867;Ghana ;Public Health, Health Economics;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+868;Zambia ;Leadership and Management in International Contexts;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+869;Vietnam ;Finance;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+870;Cameroon ;Leadership for Sustainable Development: Sociology;2019;Södertörn University;SH;59,2194;17,9434;FALSE
+871;Nigeria ;International Administration and Global Governance;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+872;Brazil ;Hydrology, Hydrogeology and Water Resources;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+873;Ethiopia ;Software Engineering and Technology;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+874;Tanzania ;Social Anthropology;2019;Lund University;LU;55,7119;13,2035;FALSE
+875;Bolivia ;Civil and Architectural Engineering;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+876;Liberia ;Biomedicine;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+877;Jordan ;Social Media and Web Technologies;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+878;Ethiopia ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+879;Peru ;Managing People, Knowledge & Change;2019;Lund University;LU;55,7119;13,2035;FALSE
+880;Myanmar (Burma) ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+881;Uganda ;Geography;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+882;Gambia ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+883;Zambia ;Development Studies;2019;Lund University;LU;55,7119;13,2035;FALSE
+884;Cameroon ;Management;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+885;Ethiopia ;Economic Growth, Population and Development;2019;Lund University;LU;55,7119;13,2035;FALSE
+886;Pakistan ;Medical Nuclide Techniques;2019;Uppsala University;UU;59,8509;17,63;FALSE
+887;Bangladesh ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+888;Brazil ;Sociology of Law;2019;Lund University;LU;55,7119;13,2035;FALSE
+889;Nigeria ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+890;Tanzania ;International Affairs;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+891;Nepal ;Economics;2019;Stockholm School of Economics;HHS;59,3416;18,0568;FALSE
+892;Zimbabwe ;Information Systems;2019;Uppsala University;UU;59,8509;17,63;FALSE
+893;Ghana ;Business Studies with an International Focus;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+894;Malawi ;Leadership for Sustainability;2019;Malmö University;MAU;55,6088;12,9946;FALSE
+895;Liberia ;Business Administration (MBA): Business Management;2019;University of Gävle;HIG;60,6685;17,1188;FALSE
+896;Ghana ;Educational Research;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+897;Bangladesh ;Economics;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+898;Zambia ;Management of Fish and Wildlife Populations;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+899;Bangladesh ;Development Studies;2019;Lund University;LU;55,7119;13,2035;FALSE
+900;Liberia ;Marketing Communication;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+901;Malawi ;Strategic Communication;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+902;Colombia ;Leadership for Sustainability;2019;Malmö University;MAU;55,6088;12,9946;FALSE
+903;Bangladesh ;Sociology;2019;Lund University;LU;55,7119;13,2035;FALSE
+904;Myanmar (Burma) ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+905;Ethiopia ;Data Science;2019;University of Skövde;HS;58,3941;13,8535;FALSE
+906;Bangladesh ;Computer Science;2019;Uppsala University;UU;59,8509;17,63;FALSE
+907;Colombia ;Architecture;2019;Lund University;LU;55,7119;13,2035;FALSE
+908;Ethiopia ;Strategic Communication;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+909;Tanzania ;Forest Ecology and Sustainable Management;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+910;Vietnam ;Managing People, Knowledge & Change;2019;Lund University;LU;55,7119;13,2035;FALSE
+911;Rwanda ;Environmental Sciences;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+912;Zimbabwe ;Business Administration - Strategy and Management in International Organisations;2019;Linköping University;LIU;58,3978;15,576;FALSE
+913;Peru ;Biomedical Engineering;2019;Linköping University;LIU;58,3978;15,576;FALSE
+914;Myanmar (Burma) ;Public Health, Health Economics;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+915;Jordan ;Civil and Architectural Engineering;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+916;Ghana ;Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+917;Myanmar (Burma) ;Health Economics, Policy and Management;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+918;Sri Lanka ;Information Systems;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+919;Gambia ;Public Health Promotion and Prevention;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+920;Liberia ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+921;Gambia ;Biology Cell and Molecular Biology;2019;Uppsala University;UU;59,8509;17,63;FALSE
+922;Rwanda ;Economics;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+923;Rwanda ;Mechanical Engineering _ Structural Mechanics;2019;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+924;Tanzania ;Water Resources Engineering;2019;Lund University;LU;55,7119;13,2035;FALSE
+925;Zambia ;Economics;2019;Södertörn University;SH;59,2194;17,9434;FALSE
+926;Bangladesh ;Humanities Cultural Anthropology;2019;Uppsala University;UU;59,8509;17,63;FALSE
+927;Gambia ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+928;Ghana ;International Marketing & Brand Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+929;Ethiopia ;Logistics and Supply Chain Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+930;Bangladesh ;Finance;2019;Lund University;LU;55,7119;13,2035;FALSE
+931;Peru ;Interaction Design and Technologies;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+932;Ghana ;Business Studies with an International Focus;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+933;Tanzania ;Finance;2019;University West;HV;58,2832;12,294;FALSE
+934;Tanzania ;Network Forensics;2019;Halmstad University;HH;56,6647;12,878;FALSE
+935;Egypt ;Strategic Entrepreneurship;2019;Jönköping University;HJ;57,7786;14,1619;FALSE
+936;Nepal ;Water Resources Engineering;2019;Lund University;LU;55,7119;13,2035;FALSE
+937;Pakistan ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+938;Egypt ;Biomedicine;2019;Uppsala University;UU;59,8509;17,63;FALSE
+939;Jordan ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;FALSE
+940;Sudan ;Embedded Systems;2019;Uppsala University;UU;59,8509;17,63;FALSE
+941;Rwanda ;Information Systems;2019;Uppsala University;UU;59,8509;17,63;FALSE
+942;Jordan ;Sustainable Development;2019;Uppsala University;UU;59,8509;17,63;FALSE
+943;Jordan ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+944;Rwanda ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;FALSE
+945;Tanzania ;Outdoor and Sustainability Education;2019;Linköping University;LIU;58,3978;15,576;FALSE
+946;Nepal ;Structural Engineering and Building Technology;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+947;Indonesia ;Leadership for Sustainability;2019;Malmö University;MAU;55,6088;12,9946;FALSE
+948;Honduras ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+949;Bangladesh ;Applied Social Research;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+950;Sudan ;Information Systems;2019;Uppsala University;UU;59,8509;17,63;FALSE
+951;Nepal ;Biology, Aquatic Ecology;2019;Lund University;LU;55,7119;13,2035;FALSE
+952;Malawi ;Educational Research;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+953;Zimbabwe ;Rural Development and Natural Resource Management;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+954;Myanmar (Burma) ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+955;Cambodia ;International Human Rights Law;2019;Lund University;LU;55,7119;13,2035;FALSE
+956;Uganda ;Leadership and Management in International Contexts;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+957;Gambia ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+958;Sri Lanka ;IT Management;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+959;Indonesia ;Management and Economics of Innovation;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+960;Colombia ;Strategic Entrepreneurship for International Growth with specialization in International Marketing;2019;Halmstad University;HH;56,6647;12,878;FALSE
+961;Gambia ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+962;Tanzania ;Economics;2019;Södertörn University;SH;59,2194;17,9434;FALSE
+963;Kenya ;Engineering Materials Science;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+964;Kenya ;Sport Physiology and Medicine Programme;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+965;Ethiopia ;Business Intelligence;2019;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+966;Vietnam ;Business Administration - Strategy and Management in International Organisations;2019;Linköping University;LIU;58,3978;15,576;FALSE
+967;Cambodia ;Global Studies;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+968;Rwanda ;Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+969;Egypt ;Entrepreneurship;2019;Uppsala University;UU;59,8509;17,63;FALSE
+970;Brazil ;Sustainability Engineering and Management;2019;Linköping University;LIU;58,3978;15,576;FALSE
+971;Zimbabwe ;Global Health;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+972;Egypt ;Electronics Design;2019;Halmstad University;HH;56,6647;12,878;FALSE
+973;Nepal ;Welfare Policies and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+974;Nepal ;Structural Engineering and Building Technology;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+975;Sudan ;Bioentrepreneurship;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+976;Malawi ;Strategic Communication;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+977;Zimbabwe ;Ecotechnology and Sustainable Development;2019;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+978;Vietnam ;Entrepreneurship;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+979;Ethiopia ;Spatial Planning;2019;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+980;Gambia ;Economic Growth, Population and Development;2019;Lund University;LU;55,7119;13,2035;FALSE
+981;Indonesia ;Electric Power Engineering;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+982;Ghana ;Public Planning for Sustainable Development;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+983;Morocco ;Sustainable Urban Design;2019;Lund University;LU;55,7119;13,2035;FALSE
+984;Indonesia ;Media Management;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+985;Brazil ;Global Studies;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+986;Sri Lanka ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;FALSE
+987;Indonesia ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;FALSE
+988;Malawi ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+989;Uganda ;Public Health;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+990;Sudan ;Production Development and Management;2019;Jönköping University;HJ;57,7786;14,1619;FALSE
+991;Nepal ;Mechanical Engineering _ Structural Mechanics;2019;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+992;Brazil ;Ethnic and Migration Studies;2019;Linköping University;LIU;58,3978;15,576;FALSE
+993;Indonesia ;Strategic Information Systems Management;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+994;Indonesia ;Logistics and Supply Chain Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+995;Ghana ;Biology Immunology and Microbiology;2019;Uppsala University;UU;59,8509;17,63;FALSE
+996;Liberia ;Sustainable Management of Biological Resources;2019;University of Skövde;HS;58,3941;13,8535;FALSE
+997;Uganda ;Educational Research;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+998;Uganda ;Strategic Information Systems Management;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+999;Sudan ;Sustainable Energy Processes and Systems;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1000;Egypt ;Bioentrepreneurship;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1001;Colombia ;Sustainability Engineering and Management;2019;Linköping University;LIU;58,3978;15,576;FALSE
+1002;Sudan ;Statistics and Machine Learning;2019;Linköping University;LIU;58,3978;15,576;FALSE
+1003;Guatemala ;Renewable Electric Power Systems;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1004;Pakistan ;Economics;2019;Lund University;LU;55,7119;13,2035;FALSE
+1005;Kenya ;International Business;2019;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1006;Cambodia ;Tourism and Sustainability;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1007;Malawi ;Software Engineering of Distributed Systems;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1008;Pakistan ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+1009;Indonesia ;Information Systems;2019;Lund University;LU;55,7119;13,2035;FALSE
+1010;Ecuador ;Environmental Economics and Management;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1011;Vietnam ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+1012;Nigeria ;Business Administration specialising in Auditing and Control;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1013;Uganda ;Political Science: Global Politics and Societal Change;2019;Malmö University;MAU;55,6088;12,9946;FALSE
+1014;Sudan ;Sustainable Energy Systems;2019;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1015;Indonesia ;Sociology of Law;2019;Lund University;LU;55,7119;13,2035;FALSE
+1016;Bangladesh ;Mechanical Engineering;2019;Halmstad University;HH;56,6647;12,878;FALSE
+1017;Gambia ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+1018;Myanmar (Burma) ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+1019;Kenya ;Computer Science, Emphasizing Sustainable Development;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1020;Bangladesh ;Sustainable Urban Design;2019;Lund University;LU;55,7119;13,2035;FALSE
+1021;Cambodia ;Educational Research;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1022;Indonesia ;Political Science: Global Politics and Societal Change;2019;Malmö University;MAU;55,6088;12,9946;FALSE
+1023;Zimbabwe ;Applied Environmental Science;2019;Halmstad University;HH;56,6647;12,878;FALSE
+1024;Myanmar (Burma) ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+1025;Rwanda ;Bioentrepreneurship;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1026;Vietnam ;Digital Business;2019;Jönköping University;HJ;57,7786;14,1619;FALSE
+1027;Sri Lanka ;Water Resources Engineering;2019;Lund University;LU;55,7119;13,2035;FALSE
+1028;Zimbabwe ;Intellectual Property Law;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1029;Sudan ;Entrepreneurship;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1030;Zimbabwe ;Global Health;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1031;Kenya ;Strategic Leadership Towards Sustainability;2019;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1032;Uganda ;Global Health;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1033;Bangladesh ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+1034;Pakistan ;Nanotechnology;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1035;Egypt ;Chemistry for Renewable Energy;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1036;Jordan ;Applied Data Science;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1037;Cameroon ;Corporate Governance _ Accounting and Finance;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1038;Philippines ;Sustainable Urban Planning and Design;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1039;Nigeria ;International Affairs;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1040;Brazil ;International Development and Management;2019;Lund University;LU;55,7119;13,2035;FALSE
+1041;Ethiopia ;Information Technology and Learning;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1042;Egypt ;Computational Social Science;2019;Linköping University;LIU;58,3978;15,576;FALSE
+1043;Egypt ;Biology Cell and Molecular Biology;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1044;Cameroon ;Accounting and Control;2019;Karlstad University;KAU;59,4064;13,5826;FALSE
+1045;Ecuador ;Computer Systems and Networks;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1046;Tanzania ;Public Health;2019;Lund University;LU;55,7119;13,2035;FALSE
+1047;Sri Lanka ;Geomatics;2019;University of Gävle;HIG;60,6685;17,1188;FALSE
+1048;Sudan ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1049;Ecuador ;Information Technology and Learning;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1050;Colombia ;Digital Business;2019;Jönköping University;HJ;57,7786;14,1619;FALSE
+1051;Vietnam ;Digital Leadership;2019;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1052;Sri Lanka ;Peace and Conflict Studies;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1053;Bangladesh ;Leadership for Sustainability;2019;Malmö University;MAU;55,6088;12,9946;FALSE
+1054;Indonesia ;Marketing;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+1055;Tanzania ;Work Life Studies within Health and Social Welfare;2019;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1056;Malawi ;Strategic Communication;2019;Örebro University;ORU;59,2548;15,2493;FALSE
+1057;Myanmar (Burma) ;Health Economics, Policy and Management;2019;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1058;Cameroon ;Accounting and Management Control;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+1059;Kenya ;Infectious Disease Control;2019;Södertörn University;SH;59,2194;17,9434;FALSE
+1060;Cameroon ;Public Health within Health and Social Welfare;2019;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1061;Pakistan ;Statistics and Machine Learning;2019;Linköping University;LIU;58,3978;15,576;FALSE
+1062;Uganda ;Public Health with a Specialization in Health Economics;2019;Umeå University;UMU;63,8202;20,3054;FALSE
+1063;Kenya ;Sustainable Structural Engineering;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1064;Sri Lanka ;Plant Biology for Sustainable Production _ Genetics and molecular plant biology;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1065;Zimbabwe ;Chemistry;2019;Linköping University;LIU;58,3978;15,576;FALSE
+1066;Tanzania ;Computer and Systems Sciences;2019;Stockholm University;SU;59,3622;18,0578;FALSE
+1067;Indonesia ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1068;Indonesia ;Wireless, Photonics and Space Engineering;2019;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1069;Pakistan ;Leadership and Management in International Contexts;2019;Linnaeus University;LNU;56,8545;14,83;FALSE
+1070;Tanzania ;Intellectual Property Law;2019;Uppsala University;UU;59,8509;17,63;FALSE
+1071;Uganda ;Information Systems;2019;Lund University;LU;55,7119;13,2035;FALSE
+1072;Gambia ;Computer Science, Emphasizing Sustainable Development;2019;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1073;Colombia ;Maintenance Engineering;2019;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1074;Ghana ;Geomatics;2019;University of Gävle;HIG;60,6685;17,1188;TRUE
+1075;Tanzania ;Energy_efficient and Environmental Building Design;2019;Lund University;LU;55,7119;13,2035;TRUE
+1076;Bangladesh ;International Business and Trade;2019;University of Gothenburg;GU;57,6982;11,9719;TRUE
+1077;Uganda ;Resource Recovery;2019;University of Borås;HB;57,7248;12,9403;TRUE
+1078;Ghana ;Social Work within Health and Social Welfare;2019;Mälardalen University;MDH;59,6186;16,5404;TRUE
+1079;Bangladesh ;Renewable Electricity Production;2019;Uppsala University;UU;59,8509;17,63;TRUE
+1080;Bangladesh ;Marine Science;2019;University of Gothenburg;GU;57,6982;11,9719;TRUE
+1081;Nepal ;Public Health Promotion and Prevention;2019;Karolinska University Hospital;KI;59,3522;18,0322;TRUE
+1082;Jordan ;Technology, Work and Health;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;TRUE
+1083;Ethiopia ;Software Engineering and Technology;2019;Chalmers University of Technology;CTH;57,6898;11,9742;TRUE
+1084;Uganda ;Engineering Mathematics and Computational Science;2019;Chalmers University of Technology;CTH;57,6898;11,9742;TRUE
+1085;Bangladesh ;Information Technology and Learning;2019;University of Gothenburg;GU;57,6982;11,9719;TRUE
+1086;Indonesia ;Supply Chain Management;2019;Chalmers University of Technology;CTH;57,6898;11,9742;TRUE
+1087;Pakistan ;Sustainable Energy Processes and Systems;2019;Linnaeus University;LNU;56,8545;14,83;TRUE
+1088;Rwanda ;Sustainable Food Systems;2019;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;TRUE
+1089;Ethiopia ;Intellectual Property Law;2019;Uppsala University;UU;59,8509;17,63;TRUE
+1090;Sudan ;Industrial Management and Innovation;2019;Uppsala University;UU;59,8509;17,63;TRUE
+1091;Morocco ;Architecture and Urban Design;2019;Umeå University;UMU;63,8202;20,3054;TRUE
+1092;Gambia ;Educational Research;2019;University of Gothenburg;GU;57,6982;11,9719;TRUE
+1093;Rwanda ;Real Estate and Construction Management;2019;KTH Royal Institute of Technology;KTH;59,3499;18,0703;TRUE
+1094;Egypt ;Accounting;2019;Umeå University;UMU;63,8202;20,3054;TRUE
+1095;Ecuador ;Social Anthropology;2019;Lund University;LU;55,7119;13,2035;TRUE
+1096;Bangladesh ;Global Health;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1097;Bangladesh ;Renewable Electricity Production;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1098;Bangladesh ;Textile Engineering;2018;University of Borås;HB;57,7248;12,9403;FALSE
+1099;Bangladesh ;Finance;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1100;Bangladesh ;Electric Power Engineering;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1101;Burkina Faso ;Communication;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1102;Cambodia ;Global Studies;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1103;Cambodia ;Media and Communication Studies;2018;Lund University;LU;55,7119;13,2035;FALSE
+1104;Ethiopia ;Landscape Architecture for Sustainable Urbanisation;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1105;Ethiopia ;Energy Systems;2018;University of Gävle;HIG;60,6685;17,1188;FALSE
+1106;Ethiopia ;Economic Growth, Population and Development;2018;Lund University;LU;55,7119;13,2035;FALSE
+1107;Ethiopia ;IT Management;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1108;Ethiopia ;Civil and Architectural Engineering;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1109;Ethiopia ;Global Health;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1110;Ethiopia ;Solar Energy Engineering;2018;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+1111;Ethiopia ;Service Management, Retail;2018;Lund University;LU;55,7119;13,2035;FALSE
+1112;Ethiopia ;Constitutional Law and Human Rights;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1113;Ethiopia ;Communication Systems;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1114;Ethiopia ;Political Science;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1115;Kenya ;Public Health Sciences;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1116;Kenya ;Language Technology;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1117;Kenya ;International Commercial Arbitration Law;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1118;Kenya ;Strategic Leadership Towards Sustainability;2018;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1119;Kenya ;Computational Social Science;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1120;Kenya ;Investment Treaty Arbitration;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1121;Kenya ;Social Work and Human Rights;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1122;Kenya ;Health Economics, Policy and Management;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1123;Kenya ;Public Health;2018;Lund University;LU;55,7119;13,2035;FALSE
+1124;Kenya ;Information Systems;2018;Lund University;LU;55,7119;13,2035;FALSE
+1125;Kenya ;Public Planning for Sustainable Development;2018;Örebro University;ORU;59,2548;15,2493;FALSE
+1126;Liberia ;Accounting and Control;2018;Karlstad University;KAU;59,4064;13,5826;FALSE
+1127;Liberia ;Strategic communication;2018;Örebro University;ORU;59,2548;15,2493;FALSE
+1128;Liberia ;Public Planning for Sustainable Development;2018;Örebro University;ORU;59,2548;15,2493;FALSE
+1129;Liberia ;International Human Rights Law;2018;Lund University;LU;55,7119;13,2035;FALSE
+1130;Mali ;Communication;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1131;Mozambique ;User Experience Design and IT Architecture;2018;Jönköping University;HJ;57,7786;14,1619;FALSE
+1132;Myanmar (Burma) ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1133;Rwanda ;Rural Development and Natural Resource Management;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1134;Rwanda ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1135;Rwanda ;Horticultural Science;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1136;Rwanda ;Educational Research;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1137;Rwanda ;IT Management;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1138;Rwanda ;Water Resources Engineering;2018;Lund University;LU;55,7119;13,2035;FALSE
+1139;South Sudan ;Public Health Science with Health Economics;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1140;South Sudan ;Humanitarian Action and Conflicts;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1141;South Sudan ;Humanitarian Action and Conflicts;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1142;Sudan ;Bioentrepreneurship;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1143;Sudan ;Applied Data Science;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1144;Sudan ;Public Health Sciences;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1145;Sudan ;Industrial Management and Innovation;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1146;Sudan ;Public Health with a Specialization in Health Economics;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1147;Sudan ;Public Health Science with Health Economics;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1148;Sudan ;Energy Systems;2018;University of Gävle;HIG;60,6685;17,1188;FALSE
+1149;Sudan ;Public Health;2018;Lund University;LU;55,7119;13,2035;FALSE
+1150;Sudan ;Global Health;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1151;Sudan ;Renewable Energy Systems;2018;Halmstad University;HH;56,6647;12,878;FALSE
+1152;Tanzania ;Educational Research;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1153;Tanzania ;Applied Environmental Science;2018;Halmstad University;HH;56,6647;12,878;FALSE
+1154;Tanzania ;Rural Development and Natural Resource Management;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1155;Tanzania ;Educational Research;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1156;Tanzania ;Economics;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1157;Tanzania ;Investment Treaty Arbitration;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1158;Uganda ;Applied Statistics;2018;Örebro University;ORU;59,2548;15,2493;FALSE
+1159;Uganda ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1160;Uganda ;Statistics and Machine Learning;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1161;Uganda ;International and Comparative Education;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1162;Uganda ;Physics;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1163;Uganda ;Public Health Sciences;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1164;Uganda ;Network Forensics;2018;Halmstad University;HH;56,6647;12,878;FALSE
+1165;Zambia ;Development Studies;2018;Lund University;LU;55,7119;13,2035;FALSE
+1166;Zambia ;Welfare Policies and Management;2018;Lund University;LU;55,7119;13,2035;FALSE
+1167;Zambia ;Toxicology;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1168;Zimbabwe ;Nutrition Science;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1169;Zimbabwe ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1170;Zimbabwe ;Structural Engineering;2018;Linnaeus University;LNU;56,8545;14,83;FALSE
+1171;Zimbabwe ;Social Studies of Gender;2018;Lund University;LU;55,7119;13,2035;FALSE
+1172;Zimbabwe ;Global Health;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1173;Brazil ;Social-Ecological Resilience for Sustainable Development;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1174;Brazil ;Sustainable Urban Design;2018;Lund University;LU;55,7119;13,2035;FALSE
+1175;Brazil ;Latin American Studies;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1176;Brazil ;Industrial Engineering and Management;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1177;Brazil ;Social-Ecological Resilience for Sustainable Development;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1178;Brazil ;Science for Sustainable Development;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1179;Colombia ;Sociology of Law;2018;Lund University;LU;55,7119;13,2035;FALSE
+1180;Colombia ;International Development and Management;2018;Lund University;LU;55,7119;13,2035;FALSE
+1181;Colombia ;Industrial Management and Innovation;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1182;Colombia ;Geology, Bedrock Geology;2018;Lund University;LU;55,7119;13,2035;FALSE
+1183;Colombia ;Sustainable Urban Design;2018;Lund University;LU;55,7119;13,2035;FALSE
+1184;Colombia ;Sustainability Engineering and Management;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1185;Colombia ;Chemical Engineering for Energy and Environment;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1186;Colombia ;Innovation and Global Sustainable Development;2018;Lund University;LU;55,7119;13,2035;FALSE
+1187;Colombia ;Communication;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1188;Egypt ;Sustainable Energy Engineering;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1189;Egypt ;Investment Treaty Arbitration;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1190;Egypt ;Public Health;2018;Lund University;LU;55,7119;13,2035;FALSE
+1191;Egypt ;Environmental Engineering and Sustainable Infrastructure;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1192;Egypt ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1193;Egypt ;Biomedicine;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1194;Egypt ;Global Health;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1195;Egypt ;Molecular Medicine;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1196;Egypt ;Computational Social Science;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1197;Egypt ;Business Administration, Marketing and Management;2018;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+1198;Egypt ;Robotics;2018;University West;HV;58,2832;12,294;FALSE
+1199;Egypt ;Rural Development and Natural Resource Management;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1200;Egypt ;Public Health with a Specialization in Health Economics;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1201;Egypt ;Accounting;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1202;Ghana ;Infection Biology;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1203;Ghana ;Service Management, Retail;2018;Lund University;LU;55,7119;13,2035;FALSE
+1204;Ghana ;Global Health;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1205;Indonesia ;Systems, Control and Mechatronics;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1206;Indonesia ;Entrepreneurship and Innovation Management;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1207;Indonesia ;Transport and Geoinformation Technology;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1208;Indonesia ;Accounting and Finance;2018;Lund University;LU;55,7119;13,2035;FALSE
+1209;Indonesia ;International Communication;2018;Jönköping University;HJ;57,7786;14,1619;FALSE
+1210;Indonesia ;Engineering Management;2018;Jönköping University;HJ;57,7786;14,1619;FALSE
+1211;Indonesia ;Industrial Management and Innovation;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1212;Indonesia ;Sustainable Technology;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1213;Indonesia ;Strategic Communication;2018;Lund University;LU;55,7119;13,2035;FALSE
+1214;Indonesia ;Political Science;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1215;Indonesia ;Information Systems;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1216;Indonesia ;Earth Science - Geology;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1217;Indonesia ;Spatial Planning;2018;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1218;Indonesia ;Environmental Studies and Sustainability Science;2018;Lund University;LU;55,7119;13,2035;FALSE
+1219;Iran ;Computational Science;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1220;Iran ;Accounting and Finance;2018;Lund University;LU;55,7119;13,2035;FALSE
+1221;Iran ;Sustainable Energy Systems;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1222;Iran ;Materials Engineering;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1223;Iran ;Sustainable Urban Planning and Design;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1224;Iran ;Business Development and Internationalisation;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1225;Iran ;Environmental Studies and Sustainability Science;2018;Lund University;LU;55,7119;13,2035;FALSE
+1226;Iran ;Biomedical Engineering;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1227;Iran ;Chemistry;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1228;Vietnam ;Business and Management;2018;Stockholm School of Economics;HHS;59,3416;18,0568;FALSE
+1229;Vietnam ;Medical Biotechnology;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1230;Vietnam ;Innovation and Global Sustainable Development;2018;Lund University;LU;55,7119;13,2035;FALSE
+1231;Vietnam ;Finance;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1232;Vietnam ;Chemistry for Renewable Energy;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1233;Vietnam ;Biology - Genetic and Molecular Plant Science;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1234;Vietnam ;International Human Rights Law;2018;Lund University;LU;55,7119;13,2035;FALSE
+1235;Vietnam ;Business Administration - Strategy and Management in International Organisations;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1236;Vietnam ;Strategic Leadership Towards Sustainability;2018;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1237;Vietnam ;Public Health with a Specialization in Health Economics;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1238;Vietnam ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2018;Halmstad University;HH;56,6647;12,878;FALSE
+1239;Albania ;Business Administration specialising in International Business and Marketing;2018;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1240;Albania ;Information Security;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1241;Albania ;Welfare Policies and Management;2018;Lund University;LU;55,7119;13,2035;FALSE
+1242;Bhutan ;Information Systems - Information Security Management;2018;Örebro University;ORU;59,2548;15,2493;FALSE
+1243;Bosnia and Herzegovina ;Entrepreneurship and Innovation;2018;Lund University;LU;55,7119;13,2035;FALSE
+1244;Bosnia and Herzegovina ;Finance;2018;Lund University;LU;55,7119;13,2035;FALSE
+1245;Botswana ;Exploration and Environmental Engineering;2018;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1246;Botswana ;Sustainable Development;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1247;Botswana ;Chemistry;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1248;Cameroon ;Global Health;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1249;Cameroon ;Strategic Entrepreneurship for International Growth with specialization in International Marketing;2018;Halmstad University;HH;56,6647;12,878;FALSE
+1250;Cameroon ;Health Economics, Policy and Management;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1251;China ;International Marketing & Brand Management;2018;Lund University;LU;55,7119;13,2035;FALSE
+1252;China ;Health Informatics;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1253;China ;Environmental Engineering and Sustainable Infrastructure;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1254;Eritrea ;Computer Science;2018;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1255;Former Yugoslav Republic of Macedonia ;Ethnic and Migration Studies;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1256;Gambia ;Computer and Systems Sciences;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1257;Gambia ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1258;Gambia ;Public Health Sciences;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1259;Gambia ;Global Health;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1260;Gambia ;Public Health;2018;Lund University;LU;55,7119;13,2035;FALSE
+1261;Gambia ;Accounting;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1262;Gambia ;Accounting and Finance;2018;Lund University;LU;55,7119;13,2035;FALSE
+1263;Gambia ;Global Health;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1264;Gambia ;Physical Geography and Quaternary Geology;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1265;India ;Managing People, Knowledge & Change;2018;Lund University;LU;55,7119;13,2035;FALSE
+1266;Iraq ;Geomatics;2018;University of Gävle;HIG;60,6685;17,1188;FALSE
+1267;Iraq ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1268;Iraq ;Nutrition Science;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1269;Jamaica ;Economic Growth, Population and Development;2018;Lund University;LU;55,7119;13,2035;FALSE
+1270;Jordan ;Strategic Leadership Towards Sustainability;2018;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1271;Kazakhstan ;Computer Science, Emphasizing Sustainable Development;2018;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1272;Kazakhstan ;Leadership and Management in International Contexts;2018;Linnaeus University;LNU;56,8545;14,83;FALSE
+1273;Kazakhstan ;Finance;2018;University West;HV;58,2832;12,294;FALSE
+1274;Kosovo ;Psychology;2018;Lund University;LU;55,7119;13,2035;FALSE
+1275;Kyrgyzstan ;Finance;2018;Lund University;LU;55,7119;13,2035;FALSE
+1276;Lebanon ;Design and Construction Project Management;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1277;Malawi ;Sustainable Development;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1278;Malawi ;Educational Research;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1279;Malawi ;Embedded Systems;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1280;Malawi ;Sociology of Education;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1281;Malawi ;Rural Development and Natural Resource Management;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1282;Malaysia ;Mechanical Engineering with emphasis on Structural Mechanics;2018;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1283;Malaysia ;Bioentrepreneurship;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1284;Maldives ;Sustainable Management;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1285;Mexico ;Economic Growth, Population and Development;2018;Lund University;LU;55,7119;13,2035;FALSE
+1286;Montenegro ;European Studies, Humanities Track;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1287;Nepal ;Engineering Design, Track Machine Design;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1288;Nepal ;Civil and Architectural Engineering;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1289;Nepal ;Social analysis;2018;Örebro University;ORU;59,2548;15,2493;FALSE
+1290;Nepal ;Public Health Sciences;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1291;Nepal ;Civil and Architectural Engineering;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1292;Nepal ;Sustainable Development;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1293;Nepal ;Infrastructure and Environmental Engineering;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1294;Nepal ;Environmental Management and Policy;2018;Lund University;LU;55,7119;13,2035;FALSE
+1295;Nicaragua ;Statistics and Machine Learning;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1296;Nigeria ;Medical Science, Occupational Therapy;2018;Lund University;LU;55,7119;13,2035;FALSE
+1297;Nigeria ;Medical Science, Occupational Therapy;2018;Lund University;LU;55,7119;13,2035;FALSE
+1298;Nigeria ;Welfare Policies and Management;2018;Lund University;LU;55,7119;13,2035;FALSE
+1299;Nigeria ;Public Health;2018;Umeå University;UMU;63,8202;20,3054;FALSE
+1300;Pakistan ;Euroforester;2018;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1301;Pakistan ;Computer Science;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1302;Pakistan ;Toxicology;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1303;Pakistan ;Wireless, Photonics and Space Engineering;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1304;Palestine ;Medical Engineering;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1305;Philippines ;Investment Treaty Arbitration;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1306;Serbia ;International Commercial Arbitration Law;2018;Stockholm University;SU;59,3622;18,0578;FALSE
+1307;Serbia ;Strategic Communication;2018;Lund University;LU;55,7119;13,2035;FALSE
+1308;Sri Lanka ;Mechanical Engineering;2018;Linnaeus University;LNU;56,8545;14,83;FALSE
+1309;Sri Lanka ;Water Resources Engineering;2018;Lund University;LU;55,7119;13,2035;FALSE
+1310;Sri Lanka ;Cognitive Neuroscience: Mind, Brain and Wellbeing;2018;University of Skövde;HS;58,3941;13,8535;FALSE
+1311;Sri Lanka ;Information Systems;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1312;Sri Lanka ;Communication Engineering;2018;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1313;Syria ;Computer Science, Emphasizing Sustainable Development;2018;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1314;Syria ;Public Health Science with Health Economics;2018;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1315;Thailand ;International Tax Law and EU Tax Law;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1316;Thailand ;Molecular Techniques in Life Science;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1317;Thailand ;Health Informatics;2018;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1318;Thailand ;International Human Rights Law;2018;Lund University;LU;55,7119;13,2035;FALSE
+1319;Ethiopia ;Electronics Engineering;2018;Linköping University;LIU;58,3978;15,576;FALSE
+1320;Sudan ;Industrial Management and Innovation;2018;Uppsala University;UU;59,8509;17,63;FALSE
+1321;Iran ;Service Management, Tourism;2018;Lund University;LU;55,7119;13,2035;FALSE
+1322;Brazil ;Media Technology: Strategic Media Development;2018;Malmö University;MAU;55,6088;12,9946;FALSE
+1323;Colombia ;Sustainable Energy Systems;2018;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1324;Jordan ;Architectural Lighting Design;2018;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1325;Malaysia ;Leadership for Sustainability;2018;Malmö University;MAU;55,6088;12,9946;FALSE
+1326;Ghana ;Business Administration, Accounting;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1327;Sudan ;Renewable Electricity Production;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1328;Zimbabwe ;Sustainable Production Development;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1329;Rwanda ;Business Administration specialising in Auditing and Control;2022;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1330;Nigeria ;Service Management, Sustainable Service Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1331;Zimbabwe ;Experimental Medicine;2022;Örebro University;ORU;59,2548;15,2493;FALSE
+1332;Kenya ;Toxicology;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1333;Tanzania ;Communication Systems;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1334;Gambia ;Public Health Science - Health Equality;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1335;Zambia ;Agroecology;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1336;Pakistan ;Sustainable Urban Planning and Design;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1337;South Africa;Social Scientific Data Analysis;2022;Lund University;LU;55,7119;13,2035;FALSE
+1338;Honduras ;Knowledge-based Entrepreneurship;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1339;Russia ;Infectious Disease Control;2022;Södertörn University;SH;59,2194;17,9434;FALSE
+1340;Cameroon ;Public Health with a Specialization in Health Economics;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1341;Malawi ;Rural Development and Natural Resource Management;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1342;Colombia ;International Marketing & Brand Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1343;Ethiopia ;Sustainable Urban Planning and Design;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1344;Liberia ;Business Administration specialising in Auditing and Control;2022;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1345;Kenya ;Physical Geography and Ecosystem Science, General;2022;Lund University;LU;55,7119;13,2035;FALSE
+1346;Ethiopia ;DESIGN AND CONSTRUCTION PROJECT MANAGEMENT;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1347;Bangladesh ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1348;Malawi ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1349;Gambia ;Business Administration specialising in Auditing and Control;2022;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1350;Malawi ;International Human Rights Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1351;Morocco ;ENTREPRENEURSHIP AND BUSINESS DESIGN;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1352;Ghana ;Chemistry - Chemistry for Renewable Energy;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1353;Nigeria ;Sustainable Energy Engineering;2022;Lund University;LU;55,7119;13,2035;FALSE
+1354;Sri Lanka ;Leadership for Sustainability;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1355;Georgia ;International Development and Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1356;Ecuador ;Public Health - Epidemiology;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1357;Cameroon ;Strategic Leadership towards Sustainability;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1358;Nigeria ;Management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1359;Gambia ;Business Administration specialising in Auditing and Control;2022;Kristianstad University;HKR;56,0485;14,1463;FALSE
+1360;Bangladesh ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1361;Myanmar (Burma) ;Public Health with a Specialization in Health Economics;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1362;Ukraine ;Sport Sciences: Sport in Society;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1363;Gambia ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1364;Philippines ;Molecular Biology, General;2022;Lund University;LU;55,7119;13,2035;FALSE
+1365;Morocco ;Strategic Leadership towards Sustainability;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1366;Liberia ;Global Health;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1367;Russia ;Entrepreneurship;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1368;Zambia ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1369;Malawi ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1370;Gambia ;Accounting;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1371;Ghana ;INFRASTRUCTURE AND ENVIRONMENTAL ENGINEERING;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1372;Ghana ;Computer Science;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1373;Ghana ;Chemistry - Chemistry for Renewable Energy;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1374;Peru ;PRODUCT DEVELOPMENT;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1375;Nigeria ;Wireless Communications;2022;Lund University;LU;55,7119;13,2035;FALSE
+1376;Ghana ;Human Geography;2022;Lund University;LU;55,7119;13,2035;FALSE
+1377;Philippines ;European and International Trade and Tax Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1378;Jordan ;Innovation and Design;2022;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1379;Rwanda ;Sustainable Structural Engineering;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1380;Nigeria ;Health Economics, Policy and Management;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1381;Ecuador ;Architectural Lighting Design;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1382;Nepal ;Animal Science;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1383;Gambia ;Sustainable Development;2022;University West;HV;58,2832;12,294;FALSE
+1384;Philippines ;International Administration and Global Governance (Gothenburg);2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1385;Gambia ;Management;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1386;Kenya ;Telecommunication Systems;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1387;Ghana ;Business Administration, Accounting;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1388;Malawi ;Global Sexual and Reproductive Health;2022;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+1389;Honduras ;Sustainable Energy Processes and Systems;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1390;Liberia ;Applied Economics and Data Analysis;2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1391;Rwanda ;Business Development and Internationalisation;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1392;Zimbabwe ;Public Health;2022;Lund University;LU;55,7119;13,2035;FALSE
+1393;Malawi ;Computer Science: Applied Data Science;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1394;Nepal ;INFRASTRUCTURE AND ENVIRONMENTAL ENGINEERING;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1395;Indonesia ;SOFTWARE ENGINEERING AND TECHNOLOGY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1396;Rwanda ;Statistics and Machine Learning;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1397;Ghana ;Information Technology and Learning;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1398;Uganda ;Information Security;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1399;Nigeria ;Chemistry - Chemistry for Renewable Energy;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1400;Ethiopia ;Software Technology;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1401;Liberia ;Humanitarian Action and Conflict;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1402;Vietnam ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1403;Ethiopia ;Service Management, Sustainable Service Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1404;Egypt ;Industrial Engineering and Management;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1405;Colombia ;Biology, Plant Science;2022;Lund University;LU;55,7119;13,2035;FALSE
+1406;Peru ;Sustainability Engineering and Management;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1407;Zimbabwe ;Electronics Design;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1408;Sri Lanka ;Electronics/Automation;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1409;Honduras ;Sustainable Urban Planning and Design;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1410;Peru ;Environmental Management and Policy;2022;Lund University;LU;55,7119;13,2035;FALSE
+1411;Ethiopia ;Intelligent Embedded Systems;2022;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1412;Azerbaijan ;International Commercial Arbitration Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1413;Nigeria ;Management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1414;Azerbaijan ;European Business Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1415;Gambia ;Global Health;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1416;Nigeria ;Production Engineering and Management (master);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1417;Tanzania ;Privacy, Information and Cyber Security;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1418;Liberia ;Outdoor and Sustainability Education;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1419;Myanmar (Burma) ;Sustainable Energy Engineering;2022;Lund University;LU;55,7119;13,2035;FALSE
+1420;Ethiopia ;AI Engineering (master);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1421;Ethiopia ;SUSTAINABLE ELECTRIC POWER ENGINEERING AND ELECTROMOBILITY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1422;Liberia ;Outdoor and Sustainability Education;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1423;Uganda ;Political Science: Global Politics and Societal Change;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1424;Gambia ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1425;Ecuador ;Naval Architecture;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1426;Gambia ;Public Health with a Specialization in Health Economics;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1427;Rwanda ;Strategic Information Systems Management;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1428;Philippines ;Sustainable Urban Planning and Design;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1429;Egypt ;Innovation and Industrial Management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1430;Zambia ;Accounting and Financial Management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1431;Zambia ;Sustainable Energy Engineering;2022;Lund University;LU;55,7119;13,2035;FALSE
+1432;Philippines ;SUSTAINABLE ENERGY SYSTEMS;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1433;Sudan ;Renewable Electricity Production;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1434;Ghana ;Strategic Entrepreneurship (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1435;Nepal ;International Commercial Arbitration Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1436;Gambia ;Public Health - Health Promotion and Prevention;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1437;Tunisia ;International Marketing & Brand Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1438;South Africa;Entrepreneurship and Innovation Management;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1439;Ukraine ;Asian Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1440;Kenya ;Leadership for Sustainability;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1441;Sri Lanka ;International Business;2022;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1442;Ghana ;Social Work and Human Rights;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1443;Liberia ;International Financial Analysis;2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1444;Nigeria ;Exploration and Environmental Geosciences;2022;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1445;Liberia ;Business Administration, Accounting;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1446;Myanmar (Burma) ;Bioentreprenurship;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1447;Gambia ;Economics;2022;Södertörn University;SH;59,2194;17,9434;FALSE
+1448;Sri Lanka ;International Business;2022;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1449;Sudan ;Renewable Electricity Production;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1450;Cameroon ;Energy Smart Innovation in the Built Environment;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1451;Myanmar (Burma) ;Nutrition Science;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1452;Malawi ;Public Health - Epidemiology;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1453;South Africa;Statistics and Machine Learning;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1454;Sri Lanka ;Service Management, Sustainable Service Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1455;Azerbaijan ;Environmental Management and Policy;2022;Lund University;LU;55,7119;13,2035;FALSE
+1456;Honduras ;Public Health;2022;Lund University;LU;55,7119;13,2035;FALSE
+1457;Nigeria ;Business Administration, Marketing and Management;2022;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+1458;Nigeria ;Strategic Leadership towards Sustainability;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1459;Nigeria ;Public Planning for Sustainable Development;2022;Örebro University;ORU;59,2548;15,2493;FALSE
+1460;South Africa;Sustainable Urban Planning and Design;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1461;Guatemala ;Cognitive Science;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1462;Liberia ;Business Administration, Accounting;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1463;Peru ;Drug Discovery and Development;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1464;Ecuador ;International Logistics and Supply Chain Management (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1465;Vietnam ;Applied Economics and Data Analysis;2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1466;Guatemala ;Landscape Architecture for Sustainable Urbanisation;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1467;Nigeria ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1468;Rwanda ;Urban Studies: Urban Business and Development – Real Estate and Transport;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1469;Liberia ;Economics;2022;Södertörn University;SH;59,2194;17,9434;FALSE
+1470;Bangladesh ;Experimental and Medical Biosciences;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1471;Myanmar (Burma) ;Sustainable Destination Development - Sustainable Nature-Based Destinations;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1472;Cameroon ;Global Health;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1473;Pakistan ;Pharmaceutical Modelling;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1474;Myanmar (Burma) ;Public Health;2022;Lund University;LU;55,7119;13,2035;FALSE
+1475;Liberia ;Food and Landscape;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1476;Kenya ;Sustainable Development;2022;University West;HV;58,2832;12,294;FALSE
+1477;Moldova;Strategic Information Systems Management;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1478;Colombia ;Education: Educational Theory;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1479;Kenya ;Chemistry;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1480;Peru ;Knowledge-based Entrepreneurship;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1481;Ghana ;Ageing and Social Change;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1482;Morocco ;Language Technology;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1483;Sudan ;Exploration and Environmental Geosciences;2022;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1484;Kenya ;Business Process Control and Supply Chain Management;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1485;Ghana ;Educational Research;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1486;Ghana ;Business Administration, Accounting;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1487;Egypt ;Accounting and Financial Management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1488;Egypt ;Bioentreprenurship;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1489;Cameroon ;Public Health Scienes: Individual perspectives on public health;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1490;Georgia ;Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1491;Ukraine ;International Human Rights Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1492;Rwanda ;Environmental Communication and Management;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1493;Zimbabwe ;Industrial Management and Innovation;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1494;Philippines ;Public International Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1495;Uganda ;Sustainable Management;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1496;Ethiopia ;ENGINEERING MATHEMATICS AND COMPUTATIONAL SCIENCE;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1497;Bangladesh ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1498;Guatemala ;Interactive Media Technology;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1499;Honduras ;International Migration and Ethnic Relations;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1500;Malawi ;Water Engineering;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1501;Tanzania ;Service Management, Sustainable Service Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1502;Sri Lanka ;Strategic Human Resource Management and Labour Relations;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1503;Nigeria ;Innovation and Design;2022;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1504;Ghana ;Knowledge-based Entrepreneurship;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1505;Tanzania ;Agricultural Economics and Management;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1506;Bangladesh ;Infection Biology;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1507;Colombia ;Cognitive Neuroscience: Mind and Brain;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1508;Liberia ;Accounting;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1509;Bangladesh ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1510;Pakistan ;Forest Ecology and Sustainable Management;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1511;Ghana ;Computational Social Science;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1512;Azerbaijan ;International Development and Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1513;Sri Lanka ;Economics;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1514;Armenia ;International Operational Law;2022;Swedish Defence University;FHS;593.491;180.694;FALSE
+1515;Sri Lanka ;Public Health Science - Health Equality;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1516;Bangladesh ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1517;Colombia ;Environmental Studies and Sustainability Science;2022;Lund University;LU;55,7119;13,2035;FALSE
+1518;Nigeria ;Electronics/Automation;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1519;Indonesia ;Railway Engineering;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1520;Tunisia ;Marketing;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1521;Vietnam ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1522;South Africa;Journalism;2022;Södertörn University;SH;59,2194;17,9434;FALSE
+1523;Gambia ;Nordic Master in Public Administration Leadership and Digitalization;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1524;Gambia ;Global Health;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1525;Ukraine ;Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1526;Ukraine ;International Human Rights Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1527;Russia ;Leadership for Sustainability;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1528;Nepal ;STRUCTURAL ENGINEERING AND BUILDING TECHNOLOGY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1529;Nepal ;Programme in Development Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1530;Nigeria ;Chemistry;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1531;Peru ;Robotics and Control;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1532;Nepal ;Energy-efficient and Environmental Building Design;2022;Lund University;LU;55,7119;13,2035;FALSE
+1533;Russia ;Strategic Communication;2022;Lund University;LU;55,7119;13,2035;FALSE
+1534;Honduras ;Environmental Engineering and Sustainable Infrastructure;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1535;Guatemala ;Media and Communication Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1536;Bolivia ;Education: Educational Theory;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1537;Jordan ;Leadership for Sustainability;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1538;Cameroon ;Tourism and Sustainable Development;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1539;Ethiopia ;Public Health;2022;Lund University;LU;55,7119;13,2035;FALSE
+1540;Kenya ;Information Systems;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1541;Ethiopia ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1542;Kenya ;Colonial and Postcolonial Studies;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1543;Indonesia ;Educational Research;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1544;Ghana ;International Business;2022;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1545;Bangladesh ;International Business and Trade;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1546;Zambia ;Educational Research;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1547;Egypt ;Pharmaceutical Modelling;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1548;Bolivia ;Environmental Sciences;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1549;Belarus ;Social Anthropology;2022;Lund University;LU;55,7119;13,2035;FALSE
+1550;Cambodia ;Strategic Communication;2022;Lund University;LU;55,7119;13,2035;FALSE
+1551;Bangladesh ;Industrial Engineering and Management;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1552;Guatemala ;Chemistry - Bio and Nano Materials;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1553;Bangladesh ;Computer Science - Computer Science;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1554;Myanmar (Burma) ;Health Informatics;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1555;Ghana ;Health Economics, Policy and Management;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1556;Russia ;Software Engineering of Distributed Systems;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1557;South Africa;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1558;Russia ;Digital Leadership;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1559;Zambia ;Nordic Master in Public Administration Leadership and Digitalization;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1560;Morocco ;Finance;2022;University West;HV;58,2832;12,294;FALSE
+1561;Bolivia ;Management of Logistics and Innovation;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1562;Ecuador ;European Business Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1563;Sri Lanka ;Mechanical Engineering;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1564;Bangladesh ;ARCHITECTURE AND PLANNING BEYOND SUSTAINABILITY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1565;Indonesia ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1566;Myanmar (Burma) ;Energy-efficient and Environmental Building Design;2022;Lund University;LU;55,7119;13,2035;FALSE
+1567;Brazil ;Interactive Media Technology;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1568;Sudan ;Economics;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1569;Zimbabwe ;Public Health (one-year);2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1570;Nigeria ;Biomarkers in Molecular Medicine;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1571;Pakistan ;Business and Management - Marketing;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1572;Jordan ;Public Health - Health Promotion and Prevention;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1573;Sudan ;Public Health;2022;Lund University;LU;55,7119;13,2035;FALSE
+1574;Georgia ;Health Economics, Policy and Management;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1575;Myanmar (Burma) ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1576;Morocco ;Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1577;Ukraine ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1578;Zambia ;Social Work and Human Rights;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1579;Georgia ;Human Rights Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1580;Cambodia ;Leadership for Sustainability;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1581;Vietnam ;Media and Communication Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1582;Sri Lanka ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1583;Tanzania ;Public Health (one-year);2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1584;Russia ;European Economic Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1585;Vietnam ;Strategic Leadership towards Sustainability;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1586;Pakistan ;Accounting;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1587;Sudan ;Logistics and Supply Chain Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1588;Uganda ;Leadership for Sustainable Development: Economics;2022;Södertörn University;SH;59,2194;17,9434;FALSE
+1589;Ukraine ;Public International Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1590;Kenya ;Strategic Leadership towards Sustainability;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1591;Pakistan ;Technology, Work and Health;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1592;Honduras ;Industrial Analytics;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1593;Peru ;International Development and Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1594;Zambia ;Dempgraphy Multidiisciplinary;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1595;Moldova;Global Health;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1596;Russia ;Service Management, Culture and Creativity Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1597;Pakistan ;Technology, Work and Health;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1598;Vietnam ;Outdoor and Sustainability Education;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1599;Liberia ;Business Administration, Accounting;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1600;Nepal ;Public Health - Epidemiology;2022;Karolinska University Hospital;KI;59,3522;18,0322;FALSE
+1601;Indonesia ;Strategic Entrepreneurship (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1602;Georgia ;European Studies,Humanities Track;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1603;Zambia ;Health Science;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1604;Sri Lanka ;International Business;2022;Luleå University of Technology;LTU;65,618;22,1402;FALSE
+1605;Bangladesh ;Infection Biology;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1606;Ethiopia ;Information Technology;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1607;Brazil ;Data Science - Data Engineering;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1608;Nepal ;STRUCTURAL ENGINEERING AND BUILDING TECHNOLOGY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1609;Belarus ;International Migration and Ethnic Relations;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1610;Pakistan ;Business and Management - Organisation;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1611;Georgia ;Applied Social Research;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1612;Azerbaijan ;INNOVATIVE AND SUSTAINABLE CHEMICAL ENGINEERING;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1613;Armenia ;Language Technology;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1614;Peru ;Water Resources Engineering;2022;Lund University;LU;55,7119;13,2035;FALSE
+1615;Bangladesh ;Fashion Marketing and Management;2022;University of Borås;HB;57,7248;12,9403;FALSE
+1616;Colombia ;Social-Ecological Resilience for Sustainable Development;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1617;Vietnam ;Communication;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1618;Vietnam ;European Economic Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1619;Rwanda ;Biotechnology;2022;Lund University;LU;55,7119;13,2035;FALSE
+1620;Colombia ;Ethnic and Migration Studies;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1621;Guatemala ;SUSTAINABLE ELECTRIC POWER ENGINEERING AND ELECTROMOBILITY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1622;Sudan ;Molecular Biotechnology;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1623;Ecuador ;International Affairs;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1624;Philippines ;Business Administration (MBA): Business Management;2022;University of Gävle;HIG;60,6685;17,1188;FALSE
+1625;Russia ;Entrepreneurship;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1626;Jordan ;Energy-efficient and Environmental Building Design;2022;Lund University;LU;55,7119;13,2035;FALSE
+1627;Russia ;Horticultural Science;2022;Swedish University of Agricultural Sciences;SLU;59,815;17,6629;FALSE
+1628;Ukraine ;Innovation and Global Sustainable Development;2022;Lund University;LU;55,7119;13,2035;FALSE
+1629;Ukraine ;International Operational Law;2022;Swedish Defence University;FHS;593.491;180.694;FALSE
+1630;Honduras ;Strategic Urban and Regional Planning;2022;Linköping University;LIU;58,3978;15,576;FALSE
+1631;Georgia ;Social Scientific Data Analysis;2022;Lund University;LU;55,7119;13,2035;FALSE
+1632;Georgia ;Global Studies: Sustainable Societes and Social Change (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1633;Tanzania ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1634;Cambodia ;Molecular Biology, Molecular Genetics and Biotechnology;2022;Lund University;LU;55,7119;13,2035;FALSE
+1635;Georgia ;Public Health Science - Health Equality;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1636;Georgia ;International Development and Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1637;Peru ;International Marketing & Brand Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1638;Azerbaijan ;Embedded Electronics Engineering;2022;Lund University;LU;55,7119;13,2035;FALSE
+1639;Egypt ;Public Health Scienes: Individual perspectives on public health;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1640;Tunisia ;International Financial Analysis;2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1641;Sudan ;Sustainable Urban Design;2022;Lund University;LU;55,7119;13,2035;FALSE
+1642;Brazil ;Sociology;2022;Lund University;LU;55,7119;13,2035;FALSE
+1643;Bolivia ;Sustainable Communication (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1644;Honduras ;Production and Materials Engineering;2022;Lund University;LU;55,7119;13,2035;FALSE
+1645;Ukraine ;Investigative Journalism;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1646;Ukraine ;Sustainable Management;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1647;Peru ;Environmental Engineering and Sustainable Infrastructure;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1648;Zambia ;Mechanical Engineering - Structural Mechanics;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1649;Rwanda ;Software Engineering;2022;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1650;Azerbaijan ;English and Education;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1651;Brazil ;Sustainable Development;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1652;Morocco ;Digital Architecture and Emergent Futures;2022;Lund University;LU;55,7119;13,2035;FALSE
+1653;Myanmar (Burma) ;Architecture and Urban Design;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1654;Georgia ;International Human Rights Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1655;South Africa;Integrated Product Design - track Innovation Management and Product Development, 120 credits;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1656;Sudan ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1657;Malawi ;Real Estate and Construction Management;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1658;Cameroon ;Finance;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1659;South Africa;Sustainable Management;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1660;Myanmar (Burma) ;Accounting and Finance;2022;Lund University;LU;55,7119;13,2035;FALSE
+1661;Tanzania ;International Business and Trade;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1662;Georgia ;Real Estate and Construction Management;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1663;Egypt ;Entrepreneurship and Innovation Management;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1664;Ecuador ;International Marketing & Brand Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1665;Pakistan ;Wireless Communications;2022;Lund University;LU;55,7119;13,2035;FALSE
+1666;Egypt ;Strategic Communication;2022;Lund University;LU;55,7119;13,2035;FALSE
+1667;Belarus ;Service Management, Tourism;2022;Lund University;LU;55,7119;13,2035;FALSE
+1668;Bangladesh ;Privacy, Information and Cyber Security;2022;University of Skövde;HS;58,3941;13,8535;FALSE
+1669;Guatemala ;Sustainable Communication (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1670;Peru ;Economics;2022;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+1671;Ecuador ;Environmental Management and Policy;2022;Lund University;LU;55,7119;13,2035;FALSE
+1672;Tanzania ;International Logistics and Supply Chain Management (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1673;Armenia ;International Operational Law;2022;Swedish Defence University;FHS;593.491;180.694;FALSE
+1674;Sudan ;Sustainable Energy Processes and Systems;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1675;Jordan ;Sustainable Development;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1676;Nepal ;SUSTAINABLE ELECTRIC POWER ENGINEERING AND ELECTROMOBILITY;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1677;Russia ;Sociology of Education;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1678;Brazil ;Innovation and Global Sustainable Development;2022;Lund University;LU;55,7119;13,2035;FALSE
+1679;Armenia ;Information Systems;2022;Lund University;LU;55,7119;13,2035;FALSE
+1680;Uganda ;Accounting and Finance;2022;Lund University;LU;55,7119;13,2035;FALSE
+1681;Ethiopia ;Global Health;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1682;Ukraine ;International Administration and Global Governance (Gothenburg);2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1683;Tunisia ;International Marketing & Brand Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1684;Indonesia ;European and International Trade and Tax Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1685;Ukraine ;Asian Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1686;Zimbabwe ;Peace and Development Work;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1687;Rwanda ;MSc in Economics;2022;Karlstad University;KAU;59,4064;13,5826;FALSE
+1688;Cameroon ;Business Administration, Marketing and Management;2022;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+1689;South Africa;INFRASTRUCTURE AND ENVIRONMENTAL ENGINEERING;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1690;Ethiopia ;Software engineering and management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1691;Ethiopia ;Public Health;2022;Umeå University;UMU;63,8202;20,3054;FALSE
+1692;Russia ;Innovation and Design;2022;Mälardalen University;MDH;59,6186;16,5404;FALSE
+1693;Georgia ;Civil and Architectural Engineering;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1694;Russia ;Strategic Communication;2022;Lund University;LU;55,7119;13,2035;FALSE
+1695;Egypt ;Entrepreneurship, Sustainability and Social Change;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1696;Ghana ;International Affairs;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1697;Colombia ;Fine Arts;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1698;Cambodia ;Media and Communication Science;2022;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+1699;Egypt ;Information Technology and Learning;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1700;Vietnam ;Business Administration, Marketing and Management;2022;Mid Sweden University;MIU;63,1771;14,6492;FALSE
+1701;Ukraine ;Sustainable Management;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1702;Russia ;Media and Communication Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1703;Sudan ;Data Science;2022;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+1704;Tanzania ;Strategic Entrepreneurship for International Growth with specialization in International Marketing;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1705;Ukraine ;Environmental Management and Policy;2022;Lund University;LU;55,7119;13,2035;FALSE
+1706;Egypt ;Entrepreneurship;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1707;Tunisia ;Industrial Management and Innovation;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1708;Russia ;Strategic Communication;2022;Lund University;LU;55,7119;13,2035;FALSE
+1709;Georgia ;Welfare Policies and Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1710;Rwanda ;Business Studies with an International Focus;2022;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+1711;South Africa;International Administration and Global Governance (Gothenburg);2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1712;Peru ;European Intellectual Property Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1713;Peru ;European Intellectual Property Law;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1714;Brazil ;Entrepreneurship;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1715;Russia ;Strategic Leadership towards Sustainability;2022;Blekinge Institute of Technology;BTH;56,1809;15,5922;FALSE
+1716;Jordan ;DESIGN AND CONSTRUCTION PROJECT MANAGEMENT;2022;Chalmers University of Technology;CTH;57,6898;11,9742;FALSE
+1717;Guatemala ;Biology - Immunology and Microbiology;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1718;Cambodia ;Global Studies: Sustainable Societes and Social Change (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1719;Brazil ;Sustainable Development;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1720;Honduras ;Industrial Management and Innovation;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1721;Vietnam ;Managing People, Knowledge & Change;2022;Lund University;LU;55,7119;13,2035;FALSE
+1722;Tanzania ;Social Sciences - Digital Media and Society;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1723;Georgia ;Psychology;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1724;Pakistan ;Entrepreneurship and Innovation;2022;Lund University;LU;55,7119;13,2035;FALSE
+1725;Pakistan ;Information Systems;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1726;Russia ;Sociology of Education;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1727;Bangladesh ;Entrepreneurship and Innovation;2022;Lund University;LU;55,7119;13,2035;FALSE
+1728;Bangladesh ;Humanitarian Action and Conflict;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1729;Russia ;Psychology, Work and Organizational Psychology;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1730;Uganda ;Urban Studies: Urban Business and Development – Real Estate and Transport;2022;Malmö University;MAU;55,6088;12,9946;FALSE
+1731;Bolivia ;Manufacturing Engineeering;2022;University West;HV;58,2832;12,294;FALSE
+1732;Azerbaijan ;European Business Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1733;Ukraine ;Marketing Communication;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1734;Philippines ;Sustainable Building Information Management (master);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1735;Zimbabwe ;Leadership in Digitalised Organisations;2022;University West;HV;58,2832;12,294;FALSE
+1736;Ghana ;Finance;2022;University West;HV;58,2832;12,294;FALSE
+1737;Bangladesh ;Information Security;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1738;Brazil ;Social-Ecological Resilience for Sustainable Development;2022;Stockholm University;SU;59,3622;18,0578;FALSE
+1739;Ecuador ;GIS and Remote Sensing;2022;Lund University;LU;55,7119;13,2035;FALSE
+1740;Egypt ;Sustainable Energy Engineering;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;FALSE
+1741;Tunisia ;Accounting and Finance;2022;Lund University;LU;55,7119;13,2035;FALSE
+1742;Sri Lanka ;Data Science - Data Engineering;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1743;Nepal ;Strategic Entrepreneurship for International Growth with specialization in Strategic Leadership;2022;Halmstad University;HH;56,6647;12,878;FALSE
+1744;Azerbaijan ;Innovation and Industrial Management;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1745;Azerbaijan ;European Business Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1746;Azerbaijan ;European Business Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1747;Indonesia ;European and International Trade and Tax Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1748;Indonesia ;Digital Humanities;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1749;Armenia ;Marketing;2022;Linnaeus University;LNU;56,8545;14,83;FALSE
+1750;Armenia ;Middle Eastern Studies;2022;Lund University;LU;55,7119;13,2035;FALSE
+1751;Russia ;European and International Trade and Tax Law;2022;Lund University;LU;55,7119;13,2035;FALSE
+1752;Sudan ;Computer Science - Computer Science;2022;Uppsala University;UU;59,8509;17,63;FALSE
+1753;Azerbaijan ;International Development and Management;2022;Lund University;LU;55,7119;13,2035;FALSE
+1754;Sudan ;Solar Energy Engineering;2022;Dalarna University in Sweden;HDA;60,6144;15,6534;FALSE
+1755;Jordan ;Communication;2022;University of Gothenburg;GU;57,6982;11,9719;FALSE
+1756;Colombia ;Digital Business (Two Years);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1757;Azerbaijan ;Global Studies: Sustainable Societes and Social Change (One Year);2022;Jönköping University;HJ;57,7786;14,1619;FALSE
+1758;Morocco ;Health Economics, Policy and Management;2022;Karolinska University Hospital;KI;59,3522;18,0322;TRUE
+1759;Myanmar (Burma) ;Health Economics, Policy and Management;2022;Karolinska University Hospital;KI;59,3522;18,0322;TRUE
+1760;Ethiopia ;Environmental Engineering and Sustainable Infrastructure;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;TRUE
+1761;Tunisia ;Sustainable Production Development;2022;KTH Royal Institute of Technology;KTH;59,3499;18,0703;TRUE
+1762;Egypt ;Sustainable Urban Design;2022;Lund University;LU;55,7119;13,2035;TRUE
